@@ -1,0 +1,39 @@
+<svg viewBox="0 0 780 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tt ds" font-family="'Inter','Helvetica Neue',Arial,sans-serif">
+<title id="tt">Explorer Network find-chance bonus ladder</title>
+<desc id="ds">Milestones of active referrals and their find-chance bonus: 1 gives +0.1%, 10 gives +1%, 25 gives +2%, 50 gives +3%, and 100 or more gives the +5% maximum.</desc>
+<defs>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="5" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<linearGradient id="track" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#7ECFEF" stop-opacity="0.25"/>
+<stop offset="1" stop-color="#7ECFEF" stop-opacity="1"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="780" height="340" rx="18" fill="#04060d"/>
+<text x="46" y="52" fill="#EAF9FF" font-size="24" font-weight="800" letter-spacing="0.5">Explorer Network</text>
+<text x="46" y="78" fill="#8FA6BB" font-size="14.5" font-weight="500">The more active explorers you invite, the sharper your scanner.</text>
+<line x1="90" y1="176" x2="690" y2="176" stroke="#1b2740" stroke-width="6" stroke-linecap="round"/>
+<line x1="90" y1="176" x2="690" y2="176" stroke="url(#track)" stroke-width="6" stroke-linecap="round"/>
+<circle cx="90" cy="176" r="9" fill="#7ECFEF" filter="url(#glow)"/>
+<text x="90" y="132" text-anchor="middle" fill="#8FA6BB" font-size="15" font-weight="600">1</text>
+<text x="90" y="216" text-anchor="middle" fill="#EAF9FF" font-size="17" font-weight="700">+0.1%</text>
+<circle cx="240" cy="176" r="9" fill="#7ECFEF" filter="url(#glow)"/>
+<text x="240" y="132" text-anchor="middle" fill="#8FA6BB" font-size="15" font-weight="600">10</text>
+<text x="240" y="216" text-anchor="middle" fill="#EAF9FF" font-size="17" font-weight="700">+1%</text>
+<circle cx="390" cy="176" r="9" fill="#7ECFEF" filter="url(#glow)"/>
+<text x="390" y="132" text-anchor="middle" fill="#8FA6BB" font-size="15" font-weight="600">25</text>
+<text x="390" y="216" text-anchor="middle" fill="#EAF9FF" font-size="17" font-weight="700">+2%</text>
+<circle cx="540" cy="176" r="9" fill="#7ECFEF" filter="url(#glow)"/>
+<text x="540" y="132" text-anchor="middle" fill="#8FA6BB" font-size="15" font-weight="600">50</text>
+<text x="540" y="216" text-anchor="middle" fill="#EAF9FF" font-size="17" font-weight="700">+3%</text>
+<circle cx="690" cy="176" r="15" fill="none" stroke="#7ECFEF" stroke-width="2" opacity="0.5"/>
+<circle cx="690" cy="176" r="11" fill="#7ECFEF" filter="url(#glow)"/>
+<text x="690" y="132" text-anchor="middle" fill="#EAF9FF" font-size="15" font-weight="800">100+</text>
+<text x="690" y="216" text-anchor="middle" fill="#7ECFEF" font-size="18" font-weight="800">+5%</text>
+<text x="690" y="234" text-anchor="middle" fill="#8FA6BB" font-size="11" font-weight="700" letter-spacing="1.5">MAX</text>
+<rect x="46" y="272" width="688" height="42" rx="10" fill="#0c1424"/>
+<circle cx="70" cy="293" r="4" fill="#7ECFEF"/>
+<text x="86" y="298" fill="#B9C7D6" font-size="13.5" font-weight="500">Active explorer = a friend who has spent $50+. A boost on top of your Scanner, never a replacement.</text>
+</svg>

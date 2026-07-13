@@ -1,0 +1,47 @@
+<svg viewBox="0 0 820 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="lt ld" font-family="'Inter','Helvetica Neue',Arial,sans-serif">
+<title id="lt">The core gameplay loop</title>
+<desc id="ld">Five steps in a loop: Signal, Scan, Discover, Collect, Grow — then back to Signal.</desc>
+<defs>
+<filter id="g2" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="0" y="0" width="820" height="220" rx="18" fill="#04060d"/>
+<g>
+<!-- nodes -->
+<g>
+<rect x="34" y="82" width="120" height="56" rx="12" fill="#0c1424" stroke="#1b2740"/>
+<text x="94" y="108" text-anchor="middle" fill="#7ECFEF" font-size="13" font-weight="800" letter-spacing="1">SIGNAL</text>
+<text x="94" y="126" text-anchor="middle" fill="#8FA6BB" font-size="11">5 / day</text>
+</g>
+<g>
+<rect x="194" y="82" width="120" height="56" rx="12" fill="#0c1424" stroke="#1b2740"/>
+<text x="254" y="108" text-anchor="middle" fill="#7ECFEF" font-size="13" font-weight="800" letter-spacing="1">SCAN</text>
+<text x="254" y="126" text-anchor="middle" fill="#8FA6BB" font-size="11">search the void</text>
+</g>
+<g>
+<rect x="354" y="82" width="120" height="56" rx="12" fill="#0c1424" stroke="#1b2740"/>
+<text x="414" y="108" text-anchor="middle" fill="#7ECFEF" font-size="13" font-weight="800" letter-spacing="1">DISCOVER</text>
+<text x="414" y="126" text-anchor="middle" fill="#8FA6BB" font-size="11">find a rarity</text>
+</g>
+<g>
+<rect x="514" y="82" width="120" height="56" rx="12" fill="#0c1424" stroke="#1b2740"/>
+<text x="574" y="108" text-anchor="middle" fill="#7ECFEF" font-size="13" font-weight="800" letter-spacing="1">COLLECT</text>
+<text x="574" y="126" text-anchor="middle" fill="#8FA6BB" font-size="11">rewards</text>
+</g>
+<g>
+<rect x="674" y="82" width="120" height="56" rx="12" fill="#0c1424" stroke="#7ECFEF"/>
+<text x="734" y="108" text-anchor="middle" fill="#EAF9FF" font-size="13" font-weight="800" letter-spacing="1">GROW</text>
+<text x="734" y="126" text-anchor="middle" fill="#8FA6BB" font-size="11">upgrade</text>
+</g>
+<!-- arrows -->
+<g stroke="#7ECFEF" stroke-width="2" fill="#7ECFEF" filter="url(#g2)">
+<line x1="154" y1="110" x2="190" y2="110"/><path d="M190 110 l-8 -4 v8 z"/>
+<line x1="314" y1="110" x2="350" y2="110"/><path d="M350 110 l-8 -4 v8 z"/>
+<line x1="474" y1="110" x2="510" y2="110"/><path d="M510 110 l-8 -4 v8 z"/>
+<line x1="634" y1="110" x2="670" y2="110"/><path d="M670 110 l-8 -4 v8 z"/>
+</g>
+<!-- loop back arrow -->
+<path d="M734 138 v40 a10 10 0 0 1 -10 10 H104 a10 10 0 0 1 -10 -10 v-40" fill="none" stroke="#2a3a55" stroke-width="2" stroke-dasharray="5 5"/>
+<path d="M94 138 l-4 8 h8 z" fill="#2a3a55"/>
+<text x="414" y="204" text-anchor="middle" fill="#6b7f96" font-size="11" font-weight="600" letter-spacing="1">…then hunt again</text>
+</g>
+</svg>

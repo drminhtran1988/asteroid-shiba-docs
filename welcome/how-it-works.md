@@ -2,7 +2,7 @@
 
 You don't need to read a manual to start. Here's the whole game in five steps.
 
-![](../images/loop.svg)
+<img src="../.gitbook/assets/loop.svg" alt="" width="563">
 
 ### 1. You get signals
 
@@ -24,7 +24,7 @@ Every valuable asteroid you find **stays with you** and keeps generating rewards
 
 Two ways to get stronger:
 
-* **Scanner** — improves your *chances* of finding rarer asteroids.
+* **Scanner** — improves your _chances_ of finding rarer asteroids.
 * **Research** — increases how much a specific asteroid earns you.
 
 And your **referral network** boosts your find-chance on top of that.

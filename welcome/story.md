@@ -1,6 +1,6 @@
 # The Story
 
-![](../images/story.png)
+![](../.gitbook/assets/story.png)
 
 Asteroid Shiba began with a real journey into space.
 

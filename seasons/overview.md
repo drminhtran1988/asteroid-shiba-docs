@@ -23,7 +23,7 @@ Exact per-rank allocations, token details, and claim & vesting terms will be pub
 Seasons are the frame for everything ahead: seasonal gameplay, **tournaments**, special events, new mechanics, and an ever-expanding world to explore. Each season is a fresh hunt with new opportunities.
 
 {% hint style="info" %}
-Exact season length, prize-pool size, and payout structure are set per season and announced ahead of each one.
+Exact season length, leaderboard reward size, and distribution are set per season and announced ahead of each one.
 {% endhint %}
 
 **Next:** [Founder Phase →](../founder/overview.md)

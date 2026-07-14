@@ -24,6 +24,7 @@
 ## Scanner
 
 * [What the Scanner does](scanner/overview.md)
+* [Scanner odds](scanner/odds.md)
 
 ## Research
 
@@ -51,3 +52,4 @@
 
 * [FAQ](reference/faq.md)
 * [Glossary](reference/glossary.md)
+* [Community & links](reference/links.md)

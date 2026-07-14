@@ -31,4 +31,4 @@ As your Scanner climbs, your **rocket** upgrades to match — from a basic craft
 Upgrade prices are being finalized and will appear here before launch.
 {% endhint %}
 
-**Next:** [How Research works →](../research/overview.md)
+**Next:** [Scanner odds →](odds.md)

@@ -2,7 +2,7 @@
 
 Every asteroid you find belongs to one of six classes. The rarer the class, the bigger the reward — and the fewer that exist in the whole season.
 
-![](../.gitbook/assets/rarities.svg)
+<img src="../.gitbook/assets/rarities.svg" alt="" width="563">
 
 | Tier          | What it means                                                             |
 | ------------- | ------------------------------------------------------------------------- |

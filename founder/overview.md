@@ -1,6 +1,6 @@
 # Founder Phase
 
-![](../images/founder.png)
+![](../.gitbook/assets/founder.png)
 
 Before the game launches, Asteroid Shiba runs a **Founder Phase** — a limited window for early adopters to get in first.
 

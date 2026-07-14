@@ -2,17 +2,17 @@
 
 Every **active explorer** in your network tunes your scanner. The bigger your active network, the higher your chance to find valuable asteroids — a boost that stacks on top of your Scanner.
 
-![](../images/explorer-network.svg)
+![](../.gitbook/assets/explorer-network.svg)
 
 ## The ladder
 
 | Active referrals | Find-chance bonus |
 | ---------------- | ----------------- |
-| 1 | +0.1% |
-| 10 | +1% |
-| 25 | +2% |
-| 50 | +3% |
-| **100+** | **+5% (max)** |
+| 1                | +0.1%             |
+| 10               | +1%               |
+| 25               | +2%               |
+| 50               | +3%               |
+| **100+**         | **+5% (max)**     |
 
 ## How to read it
 

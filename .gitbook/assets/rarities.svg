@@ -1,0 +1,53 @@
+<svg viewBox="0 0 840 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="rt rd" font-family="'Inter','Helvetica Neue',Arial,sans-serif">
+<title id="rt">Asteroid rarity tiers</title>
+<desc id="rd">Six tiers from Empty to Genesis, each glowing brighter than the last.</desc>
+<defs>
+<filter id="rg" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="6"/></filter>
+<radialGradient id="gold"><stop offset="0" stop-color="#FFE7A0"/><stop offset="1" stop-color="#E8A22A"/></radialGradient>
+</defs>
+<rect x="0" y="0" width="840" height="260" rx="18" fill="#04060d"/>
+<!-- rock generator via reuse: 6 columns -->
+<!-- Empty -->
+<g transform="translate(70,110)">
+<circle r="34" fill="#7ECFEF" opacity="0" filter="url(#rg)"/>
+<path d="M-30,-8 -18,-26 6,-30 26,-16 30,8 16,28 -10,30 -28,14 Z" fill="#20242e" stroke="#11141b" stroke-width="2"/>
+<text y="64" text-anchor="middle" fill="#6b7f96" font-size="14" font-weight="700">Empty</text>
+</g>
+<!-- Common -->
+<g transform="translate(200,110)">
+<circle r="30" fill="#7ECFEF" opacity="0.12" filter="url(#rg)"/>
+<path d="M-30,-8 -18,-26 6,-30 26,-16 30,8 16,28 -10,30 -28,14 Z" fill="#252b36" stroke="#11141b" stroke-width="2"/>
+<path d="M-6,-20 2,0 -8,18" fill="none" stroke="#7ECFEF" stroke-width="2.5" opacity="0.6"/>
+<text y="64" text-anchor="middle" fill="#B9C7D6" font-size="14" font-weight="700">Common</text>
+</g>
+<!-- Rare -->
+<g transform="translate(330,110)">
+<circle r="32" fill="#7ECFEF" opacity="0.22" filter="url(#rg)"/>
+<path d="M-30,-8 -18,-26 6,-30 26,-16 30,8 16,28 -10,30 -28,14 Z" fill="#252b36" stroke="#11141b" stroke-width="2"/>
+<path d="M-10,-22 0,-2 -6,8 6,20" fill="none" stroke="#7ECFEF" stroke-width="2.6" opacity="0.85"/>
+<text y="64" text-anchor="middle" fill="#EAF9FF" font-size="14" font-weight="700">Rare</text>
+</g>
+<!-- Epic -->
+<g transform="translate(460,110)">
+<circle r="34" fill="#7ECFEF" opacity="0.35" filter="url(#rg)"/>
+<path d="M-30,-8 -18,-26 6,-30 26,-16 30,8 16,28 -10,30 -28,14 Z" fill="#282e3a" stroke="#11141b" stroke-width="2"/>
+<path d="M-12,-24 -2,-4 -8,6 4,16 0,26" fill="none" stroke="#B7EEFF" stroke-width="2.8"/>
+<text y="64" text-anchor="middle" fill="#EAF9FF" font-size="14" font-weight="700">Epic</text>
+</g>
+<!-- Legendary -->
+<g transform="translate(590,110)">
+<circle r="38" fill="#E8A22A" opacity="0.4" filter="url(#rg)"/>
+<path d="M-30,-8 -18,-26 6,-30 26,-16 30,8 16,28 -10,30 -28,14 Z" fill="#2b2a2e" stroke="#11141b" stroke-width="2"/>
+<path d="M-12,-24 -2,-4 -8,6 4,16 0,26 10,10" fill="none" stroke="#FFD873" stroke-width="3"/>
+<text y="64" text-anchor="middle" fill="#FFD873" font-size="14" font-weight="800">Legendary</text>
+</g>
+<!-- Genesis -->
+<g transform="translate(730,110)">
+<circle r="44" fill="url(#gold)" opacity="0.55" filter="url(#rg)"/>
+<circle r="20" fill="none" stroke="#FFE7A0" stroke-width="1.5" opacity="0.5"/>
+<path d="M-30,-8 -18,-26 6,-30 26,-16 30,8 16,28 -10,30 -28,14 Z" fill="#2e2a24" stroke="#11141b" stroke-width="2"/>
+<path d="M-12,-24 -2,-4 -8,6 4,16 0,26 10,10 -6,-2" fill="none" stroke="#FFEFC0" stroke-width="3.2"/>
+<text y="64" text-anchor="middle" fill="#FFE7A0" font-size="14" font-weight="800">Genesis</text>
+</g>
+<text x="420" y="34" text-anchor="middle" fill="#8FA6BB" font-size="13.5" font-weight="600" letter-spacing="1">RARER  →  BRIGHTER  →  MORE VALUABLE</text>
+</svg>

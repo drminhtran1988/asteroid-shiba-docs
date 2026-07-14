@@ -34,6 +34,7 @@
 
 * [How referrals work](referral/overview.md)
 * [Rates & active referrals](referral/rates.md)
+* [Ambassador program](referral/ambassador.md)
 * [Explorer Network bonus](referral/explorer-bonus.md)
 
 ## Seasons & Competition

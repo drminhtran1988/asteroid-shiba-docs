@@ -6,6 +6,7 @@ Everything official, in one place. **Asteroid Shiba has no website — the game 
 * 📢 **Announcements channel** — [@asteroidshiba\_p2e](https://t.me/asteroidshiba_p2e)
 * 💬 **Community chat** — [@asteroidshiba\_game](https://t.me/asteroidshiba_game)
 * 🐦 **X / Twitter** — [@AsteroidShibaHQ](https://x.com/AsteroidShibaHQ)
+* 🛟 **Support** — [@shiba\_asteroid](https://t.me/shiba_asteroid)
 
 {% hint style="warning" %}
 These are the **only** official links. Anyone DMing you a different link, a "support" wallet, or a "connect your wallet to claim" site is a scam — we will never DM you first or ask for your seed phrase.

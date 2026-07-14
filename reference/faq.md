@@ -12,11 +12,14 @@ Yes — free during the Founder Phase. Once the game launches it's gone for good
 **Do I need to pay to find rare asteroids?**
 No. Every rarity — up to Genesis — can be found by any player, including free ones. Upgrading your Scanner only improves your *odds*, never your access, and never changes rewards.
 
+**How do I earn from referrals?**
+When someone in your network buys a Scanner upgrade, you earn a commission (8/4/2 standard, 10/6/3 ambassador) — paid to you instantly in ASTRO. See [How referrals work](../referral/overview.md).
+
 **What's an "active" referral?**
-A friend who has spent $50+ in the game (cumulative). Only active referrals earn you referral income and count toward your [Explorer Network bonus](../referral/explorer-bonus.md).
+A friend who has spent $50+ in the game (cumulative). Active referrals count toward your [Explorer Network bonus](../referral/explorer-bonus.md), the boost to your own find-chance.
 
 **Does inviting friends take rewards away from them?**
-No. Referral rewards are paid by the game on top — your friends keep 100% of what they earn.
+No. Your commission is paid by the game on top — your friends get their full upgrade and keep everything they earn.
 
 **What can I do with ASTRO?**
 Keep it, or invest it in [Research](../research/overview.md) to boost an asteroid's daily income. Withdrawals are planned — details coming.

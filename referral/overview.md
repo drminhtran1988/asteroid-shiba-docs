@@ -1,10 +1,10 @@
 # How referrals work
 
-Inviting friends isn't a side quest in Asteroid Shiba — it's a core way to grow. Your network follows you **into the game from day one**, giving you a stronger start and better hunting odds.
+Inviting friends isn't a side quest in Asteroid Shiba — it's a core way to grow. Your network follows you **into the game from day one**, and you earn a commission whenever the people you invited upgrade.
 
 ## Three levels deep
 
-When someone joins through your link, they become your **Level 1**. When *they* invite someone, that person is your **Level 2**. One more step down is your **Level 3**. You earn a share of the rewards mined across all three levels.
+When someone joins through your link, they become your **Level 1**. When *they* invite someone, that person is your **Level 2**. One more step down is your **Level 3**. You earn a commission across all three levels.
 
 ```
 You
@@ -13,17 +13,21 @@ You
          └─ L3  (and theirs)
 ```
 
-## Paid on top — never taken from your friends
+## You earn when your network upgrades
 
-This is important: your referral rewards are paid **by the game, on top** of what your network earns. Nothing is deducted from your friends.
+Every time someone in your network buys a **Scanner upgrade**, you receive a commission — a percentage of what they spent, paid to you **instantly in ASTRO**. See **[Rates & active referrals](rates.md)**.
 
-> Your friend mines 100 ASTRO → they keep all 100 ASTRO. You receive your share **added on top**.
+## Paid by the game — never taken from your friends
 
-No "tax," no resentment — everyone keeps 100% of what they earn.
+Your commission is paid **by the game, on top**. Your friend gets their full upgrade; you receive your ASTRO reward separately. Nothing is deducted from anyone.
+
+> Your friend buys a Scanner upgrade → they get the full upgrade. You receive your commission in ASTRO, added on top.
+
+Because it's paid in ASTRO, you can put it straight to work — invest it in [Research](../research/overview.md) to grow your own income, or withdraw it.
 
 ## Two things your network gives you
 
-1. **Referral income** — a percentage of your network's mining. See **[Rates & active referrals](rates.md)**.
+1. **Upgrade commission** — a percentage of your network's Scanner-upgrade spend, in ASTRO. See **[Rates & active referrals](rates.md)**.
 2. **Explorer Network bonus** — a boost to your own find-chance based on how many *active* explorers you have. See **[Explorer Network bonus](explorer-bonus.md)**.
 
 **Next:** [Rates & active referrals →](rates.md)

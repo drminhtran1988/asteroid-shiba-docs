@@ -1,4 +1,4 @@
-<svg viewBox="0 0 820 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="lt ld" font-family="'Inter','Helvetica Neue',Arial,sans-serif">
+<svg viewBox="0 0 820 220" width="1280" height="343" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="lt ld" font-family="'Inter','Helvetica Neue',Arial,sans-serif">
 <title id="lt">The core gameplay loop</title>
 <desc id="ld">Five steps in a loop: Signal, Scan, Discover, Collect, Grow — then back to Signal.</desc>
 <defs>

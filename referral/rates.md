@@ -1,53 +1,46 @@
 # Rates & active referrals
 
-Your referral income is a percentage of the ASTRO your network mines, across three levels.
+Your commission is a percentage of what your network spends on **Scanner upgrades**, paid to you **instantly in ASTRO**, across three levels.
 
 ## Standard rates
 
 Every player has these by default:
 
-| Level | Share of their mining |
-| ----- | --------------------- |
+| Level | Commission on their upgrade spend |
+| ----- | --------------------------------- |
 | L1 (direct) | **8%** |
 | L2 | **4%** |
 | L3 | **2%** |
 
-Up to **14%** of your network's total mining flows to you — paid on top, never deducted from them.
+Up to **14%** of your network's upgrade spend flows to you — paid on top, never deducted from them.
 
 ## Ambassador rates
 
 Ambassadors earn more at every level:
 
-| Level | Share of their mining |
-| ----- | --------------------- |
+| Level | Commission on their upgrade spend |
+| ----- | --------------------------------- |
 | L1 (direct) | **10%** |
 | L2 | **6%** |
 | L3 | **3%** |
 
-Up to **19%** of your network's mining.
+Up to **19%** of your network's upgrade spend.
 
 {% hint style="info" %}
 **Ambassador status is granted by hand, not bought.** It's reserved for influencers, partners, and community leaders — it cannot be purchased or unlocked inside the game.
 {% endhint %}
 
+## A quick example
+
+Say your direct referral upgrades their Scanner to Level 6 (a $825 spend):
+
+* As **Standard**, you earn 8% → about **66,000 ASTRO** (~$66), instantly.
+* As an **Ambassador**, you earn 10% → about **82,500 ASTRO** (~$82).
+
+Paid in ASTRO the moment they upgrade — reinvest it in Research or withdraw it.
+
 ## What counts: active referrals
 
-Only **active referrals** earn you income and count toward your find-chance bonus.
-
-> **Active referral = a friend who has spent $50 or more in the game (cumulative).**
-
-Free accounts, and anyone under $50, don't generate referral income and don't count toward the [Explorer Network bonus](explorer-bonus.md). This keeps the system fair and makes fake-account farming pointless.
-
-## Roughly what it looks like
-
-For a Standard profile, at a season's ramp-up pace (illustrative, not a promise):
-
-| Active L1 | Approx. total / season |
-| --------- | ---------------------- |
-| 10 | ~$100 |
-| 50 | ~$520 |
-| 100 | ~$1,000 |
-
-Ambassadors earn meaningfully more at the same network size.
+An **active referral** is a friend who has spent **$50 or more** in the game. Active referrals are what count toward your [Explorer Network bonus](explorer-bonus.md) — the boost to your own find-chance. Free accounts and anyone under $50 don't count toward that bonus.
 
 **Next:** [Explorer Network bonus →](explorer-bonus.md)

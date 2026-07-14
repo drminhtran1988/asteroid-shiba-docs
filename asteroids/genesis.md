@@ -14,7 +14,7 @@ Just three things:
 
 ## What Genesis is _not_
 
-There are **no special mechanics** after you find one — no unique NFT, no titles, no secret modes. A Genesis follows the exact same rules as every other asteroid: it joins your portfolio, mines ASTRO, and can be improved with Research. The magic is entirely in finding it.
+There are **no special mechanics** after you find one — no special perks, no titles, no secret modes. A Genesis follows the exact same rules as every other asteroid: it joins your portfolio, mines ASTRO, and can be improved with Research. The magic is entirely in finding it.
 
 ## Who can find it
 

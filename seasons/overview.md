@@ -10,9 +10,13 @@ As you research your asteroids, you earn **Explorer Points**. Points determine y
 Find asteroids → Research them → earn Explorer Points → climb the leaderboard
 ```
 
-## Prize Pool
+## Season 1 leaderboard reward
 
-Top ranks on the leaderboard compete for a **USDT prize pool** at the end of the season. The bigger and more active your operation — and your network — the better your position.
+At the end of Season 1, the **top 100 explorers** on the leaderboard share a **$ASTEROID token airdrop — 5% of the token supply** — distributed by rank. The higher you finish, the bigger your share.
+
+{% hint style="info" %}
+Exact per-rank allocations, token details, and claim & vesting terms will be published with the tokenomics ahead of the token generation event (TGE).
+{% endhint %}
 
 ## What's coming
 

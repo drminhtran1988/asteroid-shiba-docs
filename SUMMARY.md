@@ -43,6 +43,10 @@
 
 * [Founder Phase](founder/overview.md)
 
+## Payments
+
+* [Payments & Withdrawals](payments/overview.md)
+
 ## Reference
 
 * [FAQ](reference/faq.md)

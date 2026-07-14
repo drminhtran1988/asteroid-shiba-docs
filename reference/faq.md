@@ -22,13 +22,16 @@ A friend who has spent $50+ in the game (cumulative). Active referrals count tow
 No. Your commission is paid by the game on top — your friends get their full upgrade and keep everything they earn.
 
 **What can I do with ASTRO?**
-Keep it, or invest it in [Research](../research/overview.md) to boost an asteroid's daily income. Withdrawals are planned — details coming.
+Keep it, invest it in [Research](../research/overview.md) to boost an asteroid's daily income, or withdraw it as USDT. See [Payments & Withdrawals](../payments/overview.md).
+
+**How do payments and withdrawals work?**
+You buy Scanner upgrades directly with USDT (BEP20). Everything you earn in-game is ASTRO, which you can withdraw as USDT (BEP20) at a set rate. See [Payments & Withdrawals](../payments/overview.md).
 
 **When does the game launch?**
 July 24, 2026. See [Founder Phase](../founder/overview.md).
 
 **What wallet do I need?**
-A BEP20 (BSC) wallet for deposits and rewards.
+A BEP20 (BSC) wallet — for paying (USDT) and withdrawing your earnings.
 
 {% hint style="info" %}
 Some economy details (upgrade prices, Research costs, withdrawal terms) are being finalized and will be published here before launch.

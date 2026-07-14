@@ -5,7 +5,7 @@ Getting into Asteroid Shiba takes about a minute.
 ## What you need
 
 * **Telegram** — the game runs as a Mini App inside Telegram.
-* **A BEP20 (BSC) wallet** — for deposits and, later, rewards. You can add this at any time; you don't need it just to claim.
+* **A BEP20 (BSC) wallet** — for payments and, later, withdrawals. You can add this at any time; you don't need it just to claim.
 
 ## Claim your Founder Shiba
 

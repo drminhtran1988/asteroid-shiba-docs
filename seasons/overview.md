@@ -12,10 +12,12 @@ Find asteroids → Research them → earn Explorer Points → climb the leaderbo
 
 ## Season 1 leaderboard reward
 
-At the end of Season 1, the **top 100 explorers** on the leaderboard share a **$ASTEROID token airdrop — 5% of the token supply** — distributed by rank. The higher you finish, the bigger your share.
+The **$ASTEROID token has not been issued yet.** What Season 1 does is decide who is standing in line when it is.
+
+At the end of Season 1, the **top 100 explorers** on the leaderboard are added to the **token whitelist**, and **2% of the future token emission** is reserved for that group — distributed by rank. The higher you finish, the bigger your share.
 
 {% hint style="info" %}
-Exact per-rank allocations, token details, and claim & vesting terms will be published with the tokenomics ahead of the token generation event (TGE).
+No token exists today and nothing is claimable yet. Exact per-rank allocations, token details, and claim &#38; vesting terms will be published with the tokenomics ahead of the token generation event (TGE).
 {% endhint %}
 
 ## What's coming

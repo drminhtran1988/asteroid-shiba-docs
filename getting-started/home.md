@@ -13,4 +13,4 @@ Everything you need is on one screen. Here's what you're looking at.
 The scene grows with you: as your Scanner climbs, your Shiba's gear, rocket, and launch platform all upgrade — you're building a home base, not just a number.
 {% endhint %}
 
-**Next:** [Signals & Hunting →](../gameplay/signals-hunting.md)
+**Next:** [Your first hunt →](first-hunt.md)

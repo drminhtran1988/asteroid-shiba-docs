@@ -8,6 +8,7 @@
 
 * [Claim your Shiba](getting-started/claim.md)
 * [Home screen tour](getting-started/home.md)
+* [Your first hunt](getting-started/first-hunt.md)
 
 ## Core Gameplay
 

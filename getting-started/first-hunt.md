@@ -62,9 +62,9 @@ Research upgrades one asteroid. Your **Scanner** is the other half: it's account
 
 Your referral network isn't a side quest — it pays in ASTRO across three lines.
 
-<figure><img src="../.gitbook/assets/first-hunt-invite.png" alt="Referral dashboard with numbered callouts" width="360"><figcaption><p>① Your personal invite link — share or copy it · ② Network — your sponsor and how many explorers sit on each line · ③ Referral Earnings — ASTRO earned per line at 10% / 6% / 3%</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/first-hunt-invite.png" alt="Referral dashboard with numbered callouts" width="360"><figcaption><p>① Your personal invite link — share or copy it · ② Network — your sponsor and how many explorers sit on each line · ③ Referral Earnings — ASTRO earned per line at 8% / 4% / 2%</p></figcaption></figure>
 
-Line 1 pays **10%**, line 2 **6%**, line 3 **3%**. A crew keeps earning for you while you hunt.
+Line 1 pays **8%**, line 2 **4%**, line 3 **2%** — paid in ASTRO whenever someone in your network upgrades their Scanner. Sign-ups alone don't pay out. [Ambassadors](../referral/ambassador.md) earn more on every line. A crew keeps earning for you while you hunt.
 
 ***
 

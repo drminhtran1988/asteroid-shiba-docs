@@ -54,4 +54,27 @@ Scanner upgrades are bought **one level at a time, in order** — each level unl
 Prices are in USDT on BNB Smart Chain (BEP20). **Level 0 is free** — every account starts there. "Total to reach" is the cumulative spend from Level 0.
 {% endhint %}
 
+## What it earns back
+
+How long the ASTRO you earn takes to match what you spent, if you use all **5 signals every day**.
+
+| Scanner | Total spent | Estimated break-even |
+| ------- | ----------- | -------------------- |
+| **Lv1** | 50 USDT | ~67 days |
+| **Lv2** | 125 USDT | ~60 days |
+| **Lv3** | 225 USDT | ~56 days |
+| **Lv4** | 375 USDT | ~53 days |
+| **Lv5** | 575 USDT | ~51 days |
+| **Lv6** | 825 USDT | ~49 days |
+| **Lv7** | 1,175 USDT | ~48 days |
+| **Lv8** | 1,675 USDT | ~46 days |
+| **Lv9** | 2,425 USDT | ~44 days |
+| **Lv10** | 3,425 USDT | ~43 days |
+
+**Legendary and Genesis are deliberately left out of these numbers.** They are jackpots — rare by design — and a break-even figure that depended on hitting one would tell you nothing useful. Everything above is built only on Common, Rare and Epic, so the jackpots are upside on top, never the plan.
+
+{% hint style="warning" %}
+These are **estimates, not guarantees**. They assume you spend all five signals every single day and hold your finds for the season; missed days push the number out. At the lower levels a find is rare enough that luck alone can move the result by weeks in either direction. Research is not counted here — it raises income further, on top.
+{% endhint %}
+
 **Next:** [Scanner odds →](odds.md)

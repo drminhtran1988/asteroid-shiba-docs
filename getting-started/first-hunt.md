@@ -10,7 +10,7 @@ Every screen below is the real Mini App. The orange numbers (①, ②, …) poin
 
 Everything starts on one screen. Your Shiba stands on the launch platform, your stats sit across the top, and the big orange button is how you play.
 
-<div align="right"><figure><img src="../.gitbook/assets/first-hunt-home.png" alt="Asteroid Shiba home screen with numbered callouts" width="360"><figcaption><p>① ASTRO BALANCE — your banked tokens · ② SCANNER — your account-wide level · ③ MINING — how much ASTRO your fleet earns per day · ④ ASTEROIDS — fleet size out of the 50 cap · ⑤ COLLECT ASTRO — mined tokens waiting to be banked · ⑥ START HUNT · 5/5 — signals left today</p></figcaption></figure></div>
+<div align="right"><figure><img src="../.gitbook/assets/first-hunt-home.png" alt="Asteroid Shiba home screen with numbered callouts" width="360"><figcaption><p>① ASTRO BALANCE — your banked tokens · ② SCANNER — your account-wide level · ③ MINING — how much ASTRO your fleet earns per day · ④ ASTEROIDS — active asteroids out of your cap (1 on a free Scanner, 50 from Level 1) · ⑤ COLLECT ASTRO — mined tokens waiting to be banked · ⑥ START HUNT · 5/5 — signals left today</p></figcaption></figure></div>
 
 A brand-new explorer looks exactly like this: balance 0, Scanner LV. 1, no asteroids — and **five free signals**. Everyone starts on the same footing.
 
@@ -40,12 +40,12 @@ Discovery pays immediately, and the asteroid is yours for the whole season. The 
 
 Open **Portfolio** to see everything you've found. Each asteroid quietly mines ASTRO into its own storage; you tap to collect.
 
-<figure><img src="../.gitbook/assets/first-hunt-portfolio.png" alt="Portfolio screen with numbered callouts" width="360"><figcaption><p>① Recorded income — what your whole fleet earns per day · ② Active asteroids — 50 is the season cap · ③ Ready to collect — tap to bank it · ④ RESEARCH R1 — upgrade this specific asteroid</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/first-hunt-portfolio.png" alt="Portfolio screen with numbered callouts" width="360"><figcaption><p>① Recorded income — what your whole fleet earns per day · ② Active asteroids — the cap is 1 on a free Scanner and 50 from Level 1 · ③ Ready to collect — tap to bank it · ④ RESEARCH R1 — upgrade this specific asteroid</p></figcaption></figure>
 
 Two things worth knowing from this screen. Storage is finite — an asteroid that says **Storage full** has stopped mining until you collect, so a daily visit keeps the whole fleet working. And rarity is income: the Legendary above pays **+5K / day**, the Epic **+2K / day**.
 
 {% hint style="info" %}
-The fleet shown here belongs to a test account that is already full at 50/50. Yours starts at 0 / 50 and grows one find at a time.
+The fleet shown here belongs to a test account on an upgraded Scanner, already full at 50/50. On a free Scanner yours starts at **0 / 1** — one earning asteroid at a time, until you upgrade.
 {% endhint %}
 
 ## 6. Make an asteroid earn more — Research

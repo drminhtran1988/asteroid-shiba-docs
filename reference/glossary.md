@@ -12,7 +12,7 @@
 
 **Research** — spending ASTRO on a specific asteroid to raise its daily income (up to +50%). Burns ASTRO.
 
-**Portfolio** — your collection of found asteroids that mine ASTRO for you (up to 50 active earners).
+**Portfolio** — your collection of found asteroids that mine ASTRO for you (1 active earner on a free Scanner, up to 50 from Level 1).
 
 **Buffer** — each asteroid's storage; fills up, then pauses until you Collect.
 

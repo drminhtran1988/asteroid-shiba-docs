@@ -17,12 +17,19 @@ Keep the ASTRO, or invest it in Research to earn more
 * **It compounds.** The longer you play, the more asteroids you hold, and the faster your total daily income grows.
 * **The buffer.** Each asteroid fills a limited buffer, then pauses until you **Collect**. Coming back once a day keeps everything mining.
 
-## The 50-asteroid fleet
+## How many asteroids can earn at once
 
-Your portfolio holds up to **50 active earning asteroids**. You can *find* as many as you like — instant Discovery rewards always come in — but only your best 50 generate daily passive income. When you find a 51st, you choose: swap one out, or keep your current fleet.
+| Scanner | Active earning asteroids |
+| ------- | ------------------------ |
+| **Level 0 (free)** | **1** |
+| **Level 1–10** | **50** |
+
+A **free** account keeps **one** asteroid earning at a time. Find a better one and you choose: replace the one you have, or keep it. Buying any Scanner upgrade opens the full fleet of 50.
+
+You can *find* as many asteroids as you like at any level — instant Discovery rewards always come in. The limit is only on how many generate daily passive income at the same time.
 
 {% hint style="info" %}
-Most players never hit the 50 cap in a season — it's there so the biggest hunters face a real "which asteroids do I keep?" decision, not to limit everyday play.
+Most paying players never hit the 50 cap in a season — it's there so the biggest hunters face a real "which asteroids do I keep?" decision, not to limit everyday play.
 {% endhint %}
 
 **Next:** [Rarity tiers →](../asteroids/rarities.md)

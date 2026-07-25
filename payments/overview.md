@@ -12,14 +12,14 @@ Everything you earn inside the game is **ASTRO** — from discovering asteroids 
 
 ## Withdrawing your earnings
 
-When you're ready to cash out, your **ASTRO is converted to USDT (BEP20)** at a set rate and sent to your BSC wallet — once you reach the minimum withdrawal amount.
+When you're ready to cash out, your **ASTRO is converted to USDT (BEP20)** at a set rate and sent to your BSC wallet — once you reach the minimum withdrawal amount. Payouts are reviewed and processed **within 48 hours** of your request.
 
 {% hint style="info" %}
-The exact conversion rate, minimum withdrawal, fees, and timing are still being finalized and will be published here. *(Reference scale: 1 ASTRO = $0.001.)*
+The exact conversion rate, minimum withdrawal, and fees are still being finalized and will be published here. *(Reference scale: 1 ASTRO = $0.001.)*
 {% endhint %}
 
 ## In short
 
 * **Pay** in USDT (BEP20) — for Scanner upgrades.
 * **Earn** ASTRO — inside the game.
-* **Withdraw** — convert ASTRO → USDT (BEP20) to your wallet.
+* **Withdraw** — convert ASTRO → USDT (BEP20) to your wallet, within 48 hours.

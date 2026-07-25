@@ -34,5 +34,5 @@ July 24, 2026. See [Founder Phase](../founder/overview.md).
 A BEP20 (BSC) wallet — for paying (USDT) and withdrawing your earnings.
 
 {% hint style="info" %}
-Some economy details (upgrade prices, Research costs, withdrawal terms) are being finalized and will be published here before launch.
+Withdrawal terms — the exact ASTRO to USDT rate, the minimum amount and any fees — are still being finalized and will be published here. Scanner [upgrade prices](../scanner/overview.md) and [Research costs](../research/overview.md) are published.
 {% endhint %}

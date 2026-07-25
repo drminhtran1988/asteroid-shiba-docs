@@ -15,7 +15,7 @@ Everything you earn inside the game is **ASTRO** — from discovering asteroids 
 When you're ready to cash out, your **ASTRO is converted to USDT (BEP20)** at a set rate and sent to your BSC wallet — once you reach the minimum withdrawal amount.
 
 {% hint style="info" %}
-The exact conversion rate, minimum withdrawal, fees, and timing are being finalized and will be published here before launch. *(Reference scale: 1 ASTRO = $0.001.)*
+The exact conversion rate, minimum withdrawal, fees, and timing are still being finalized and will be published here. *(Reference scale: 1 ASTRO = $0.001.)*
 {% endhint %}
 
 ## In short

@@ -19,8 +19,8 @@
 <text x="60" y="94">50%</text><text x="60" y="154">40%</text><text x="60" y="214">30%</text><text x="60" y="274">20%</text><text x="60" y="334">10%</text><text x="60" y="394">0%</text>
 </g>
 <!-- area + line -->
-<path d="M70,384 L149,371.5 L228,365.5 L307,358 L386,350 L465,337.8 L544,324.5 L623,299.5 L702,266 L781,197.4 L860,90 L860,390 L70,390 Z" fill="url(#area)"/>
-<path d="M70,384 L149,371.5 L228,365.5 L307,358 L386,350 L465,337.8 L544,324.5 L623,299.5 L702,266 L781,197.4 L860,90" fill="none" stroke="#7ECFEF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl)"/>
+<path d="M70,384 L149,377.5 L228,365.5 L307,358 L386,350 L465,337.8 L544,324.5 L623,299.5 L702,266 L781,197.4 L860,90 L860,390 L70,390 Z" fill="url(#area)"/>
+<path d="M70,384 L149,377.5 L228,365.5 L307,358 L386,350 L465,337.8 L544,324.5 L623,299.5 L702,266 L781,197.4 L860,90" fill="none" stroke="#7ECFEF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl)"/>
 <!-- key markers -->
 <g fill="#EAF9FF">
 <circle cx="70" cy="384" r="5" fill="#7ECFEF"/><text x="78" y="378" font-size="13" font-weight="700">~1%</text>

@@ -7,16 +7,20 @@ Getting into Asteroid Shiba takes about a minute.
 * **Telegram** — the game runs as a Mini App inside Telegram.
 * **A BEP20 (BSC) wallet** — for payments and, later, withdrawals. You can add this at any time; you don't need it just to claim.
 
-## Claim your Founder Shiba
+## Claim your Level 0 Shiba
 
-During the **Founder Phase** (before launch), every new explorer can claim a **Founder Shiba** — an exclusive in-game mascot — for **free**.
+Every new explorer claims a **Level 0 Shiba** — your starting mascot — for **free**.
 
 1. Open the Asteroid Shiba Mini App in Telegram.
 2. Join the required Telegram channel and chat when prompted.
-3. Tap **Claim** to lock in your Founder Shiba.
+3. Tap **Claim** to lock in your Shiba.
 
 {% hint style="warning" %}
-The Founder Shiba is only available during the Founder Phase. **Once the game launches, it's gone for good.** See [Founder Phase](../founder/overview.md).
+**Free entry closes on August 6, 2026.** After that, joining Asteroid Shiba becomes paid. Numbers are limited and it may close earlier, so claim while it is open.
+{% endhint %}
+
+{% hint style="info" %}
+The **Founder Shiba** was a separate, pre-launch mascot and is no longer available — the Founder Phase closed when Season 1 launched on July 24, 2026. See [Founder Phase](../founder/overview.md).
 {% endhint %}
 
 ## Invite your friends early

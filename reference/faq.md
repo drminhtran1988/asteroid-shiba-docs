@@ -28,7 +28,10 @@ Keep it, invest it in [Research](../research/overview.md) to boost an asteroid's
 You buy Scanner upgrades directly with USDT (BEP20). Everything you earn in-game is ASTRO, which you can withdraw as USDT (BEP20) at a set rate. See [Payments & Withdrawals](../payments/overview.md).
 
 **When does the game launch?**
-July 24, 2026. See [Founder Phase](../founder/overview.md).
+It already has — Season 1 launched on July 24, 2026 and is running now. See [Founder Phase](../founder/overview.md) for what the pre-launch window was.
+
+**Is it still free to join?**
+Yes. A new explorer claims a **Level 0 Shiba** for free. Free entry closes on **August 6, 2026**; after that, game access becomes paid. Numbers are limited and it may close earlier. See [Claim your Shiba](../getting-started/claim.md).
 
 **What wallet do I need?**
 A BEP20 (BSC) wallet — for paying (USDT) and withdrawing your earnings.

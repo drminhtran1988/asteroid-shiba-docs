@@ -1,16 +1,16 @@
 # Scanner odds
 
-Your Scanner never locks a rarity behind a level — it shifts the **odds**. Here's how your chances grow as you climb.
+Your Scanner shifts the **odds** — and opens rarer tiers as you climb. A free Scanner finds Common; Level 1 and up unlock Rare, Epic, Legendary and Genesis. Here's how your chances grow.
 
 <img src="../.gitbook/assets/scanner-odds.png" alt="Chance to find something valuable by Scanner level" width="1000">
 
 ## Every level, every rarity
 
-Chance per signal. **Empty is the rest of each row** — at Level 0 that's 99%, at Level 10 it's 50%.
+Chance per signal. **Empty is the rest of each row** — at Level 0 that's 99.07%, at Level 10 it's 50%.
 
 | Lv | Common | Rare | Epic | Legendary | Genesis |
 | -- | ------ | ---- | ---- | --------- | ------- |
-| **0 · Free** | 0.93% | 0.07% | 0% | 0% | 🔒 |
+| **0 · Free** | 0.93% | 0% | 0% | 0% | 🔒 |
 | **1** | 1.98% | 0.07% | 0.02% | 0.01% | 🔒 |
 | **2** | 3.52% | 0.32% | 0.16% | 0.08% | 🔒 |
 | **3 · Hunter** | 4.10% | 0.62% | 0.47% | 0.11% | 🔒 |
@@ -28,7 +28,7 @@ Chance per signal. **Empty is the rest of each row** — at Level 0 that's 99%, 
 
 ## How to read it
 
-* **From Level 1, every available rarity is reachable.** A free Scanner finds Common and Rare; Epic and Legendary open at Level 1. Upgrading never unlocks a rarity beyond that — it only changes *how likely* each one is.
+* **From Level 1, every available rarity is reachable.** A free Scanner finds Common only; Rare, Epic and Legendary open at Level 1. Upgrading never unlocks a rarity beyond that — it only changes *how likely* each one is.
 * **Upgrading tilts the whole curve** toward rarer, more valuable finds — Epic goes from near-zero to roughly 1-in-5 scans at max.
 * **Empty scans never fully disappear.** That scarcity is the point — a find should feel like *striking gold*, not collecting a daily bonus.
 

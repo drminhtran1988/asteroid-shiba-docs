@@ -32,9 +32,9 @@ The game tells you plainly: _"The signal returned empty. No ASTRO was awarded."_
 
 When a signal hits, the rock resolves out of the dark and the screen says **ASTEROID SECURED** — with its **rarity** (Common, Rare, Epic, Legendary, or the almost-mythical **Genesis**) and the ASTRO credited to you on the spot.
 
-<figure><img src="../.gitbook/assets/first-hunt-reveal.png" alt="Asteroid reveal — Rare asteroid secured, +5,000 ASTRO" width="360"><figcaption><p>ASTEROID REVEAL · a Rare find pays +5,000 ASTRO instantly. Tap VIEW ASTEROID to open it.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/first-hunt-reveal.png" alt="Asteroid reveal — Rare asteroid secured, +5,000 ASTRO" width="360"><figcaption><p>ASTEROID REVEAL · this example (an upgraded Scanner) shows a Rare paying +5,000 ASTRO instantly. On a free Scanner, finds are Common. Tap VIEW ASTEROID to open it.</p></figcaption></figure>
 
-Discovery pays immediately, and the asteroid is yours for the whole season. The same asteroid pays the same to every player: your Scanner changes your **odds** of finding a rare one, never the **reward** for finding it.
+Discovery pays immediately, and the asteroid is yours for the whole season. The same asteroid pays the same to every player: your Scanner sets **which rarities you can find** and how likely each is — a free Scanner finds Common, and Level 1 and up open the rarer tiers — but it never changes the **reward**.
 
 ## 5. It joins your fleet — and mines for you
 

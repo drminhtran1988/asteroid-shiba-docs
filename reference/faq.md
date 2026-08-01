@@ -10,7 +10,7 @@ Yes — free during the Founder Phase. Once the game launches it's gone for good
 5 signals per day, for every player. They refresh daily.
 
 **Do I need to pay to find rare asteroids?**
-No. Every rarity — up to Genesis — can be found by any player, including free ones. Upgrading your Scanner only improves your *odds*, never your access, and never changes rewards.
+A free Scanner (Level 0) finds Common. From **Level 1** up, every rarity — Rare, Epic, Legendary and Genesis — becomes reachable, and higher levels shift your *odds* toward the rarest finds. What never changes is the reward: the same find pays the same to everyone.
 
 **How do I earn from referrals?**
 When someone in your network buys a Scanner upgrade, you earn a commission (8/4/2 standard, 10/6/3 ambassador) — paid to you instantly in ASTRO. See [How referrals work](../referral/overview.md).

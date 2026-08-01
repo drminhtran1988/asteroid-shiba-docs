@@ -8,7 +8,7 @@
 
 **Rarity** — an asteroid's class: Empty, Common, Rare, Epic, Legendary, or Genesis.
 
-**Scanner** — your account upgrade path; raises the *probability* of finding rarer asteroids.
+**Scanner** — your account upgrade path; a free Scanner finds Common, and each level from 1 up opens rarer tiers and raises the *probability* of finding them.
 
 **Research** — spending ASTRO on a specific asteroid to raise its daily income (up to +50%). Burns ASTRO.
 
@@ -18,7 +18,7 @@
 
 **ASTRO** — the in-game currency. 1 ASTRO ≈ $0.001. Earned by finding and holding asteroids, spent on Research.
 
-**Genesis** — the rarest, highest-value asteroid tier. Time-gated, findable by anyone.
+**Genesis** — the rarest, highest-value asteroid tier. Time-gated; reachable from a Level 1 Scanner up (a free Scanner finds only Common).
 
 **Explorer Points** — earned via Research; determine your leaderboard rank.
 

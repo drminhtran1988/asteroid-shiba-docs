@@ -15,7 +15,7 @@ Every asteroid you find belongs to one of six classes. The rarer the class, the 
 
 ## The key idea
 
-Every rarity exists for **every player from day one**. A brand-new explorer can, in theory, strike Legendary or even Genesis — the odds are just far lower than for someone with an upgraded Scanner. Nothing is locked behind a paywall; upgrades only shift probability.
+A free Scanner (Level 0) finds **Common**. From **Level 1** up, the full range opens — Rare, Epic, Legendary and Genesis all become reachable — and each higher level shifts the odds further toward the rarest finds. What your Scanner never changes is the reward: a given find pays the same to everyone.
 
 See exact rewards in [**What each is worth**](values.md).
 

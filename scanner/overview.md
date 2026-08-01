@@ -2,14 +2,11 @@
 
 Your **Scanner** is how you get better at hunting. It's the one upgrade path for your account — and it does exactly one thing.
 
-## It changes your odds, not your access
+## It opens rarities and shifts your odds
 
-The Scanner **increases the probability** of finding rarer asteroids. It never:
+A free Scanner (Level 0) finds **Common**. From **Level 1** up, the full rarity range opens — Rare, Epic, Legendary and Genesis — and each level tilts the whole find-curve further toward the rarer, more valuable asteroids.
 
-* locks any rarity behind a level (every rarity exists for everyone from day one), or
-* changes what an asteroid is worth (the same find pays the same to everyone).
-
-Higher Scanner level = the whole find-curve tilts toward rarer, more valuable asteroids.
+One thing the Scanner never touches: **what an asteroid is worth**. The same find pays the same to everyone — your level changes how *often* and how *rare* your finds are, never the reward.
 
 ## The five ranks
 

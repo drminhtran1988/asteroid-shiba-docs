@@ -2,7 +2,7 @@
 
 ## Signals
 
-A **signal** is one attempt to scan the field. Every player gets **5 signals per day**, free — no passes, no paid tiers. Everyone hunts on the same footing.
+A **signal** is one attempt to scan the field. Every player gets **5 signals per day**, at every Scanner level, at no extra cost — no passes, no paid boosts. What your Scanner changes is what a signal can *find*, never how many you get.
 
 Signals refresh daily, so there's always a reason to come back.
 

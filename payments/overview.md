@@ -18,8 +18,16 @@ When you're ready to cash out, your **ASTRO is converted to USDT (BEP20)** at a 
 The exact conversion rate, minimum withdrawal, and fees are still being finalized and will be published here. *(Reference scale: 1 ASTRO = $0.001.)*
 {% endhint %}
 
+## The Level 0 withdrawal limit
+
+**Scanner Level 0 accounts can withdraw up to $25 in total, for the lifetime of the account.**
+
+You keep earning and playing normally — mining, Research and hunting are untouched. Only cashing out is capped, and the cap counts every withdrawal from the account, whether the ASTRO came from mining, Research or referral commission. It applies to every Level 0 account: bought, won in a [Salvage Run](../lv0/salvage-run.md), or Founder.
+
+Buying **Scanner Level 1** removes the limit. Full detail: [The Level 0 withdrawal limit](../lv0/limits.md).
+
 ## In short
 
-* **Pay** in USDT (BEP20) — for Scanner upgrades.
+* **Pay** in USDT (BEP20) — 10 USDT to enter at Level 0, then for Scanner upgrades.
 * **Earn** ASTRO — inside the game.
 * **Withdraw** — convert ASTRO → USDT (BEP20) to your wallet, within 48 hours.

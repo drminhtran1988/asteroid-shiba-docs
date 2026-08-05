@@ -10,7 +10,16 @@ Yes — free during the Founder Phase. Once the game launches it's gone for good
 5 signals per day, for every player. They refresh daily.
 
 **Do I need to pay to find rare asteroids?**
-A free Scanner (Level 0) finds Common. From **Level 1** up, every rarity — Rare, Epic, Legendary and Genesis — becomes reachable, and higher levels shift your *odds* toward the rarest finds. What never changes is the reward: the same find pays the same to everyone.
+Level 0 can find Common, Rare and Epic. But only Common earns at Level 0 — a Rare or Epic goes into [storage](../lv0/storage.md), yours to keep, and starts paying when you reach Level 1. From **Level 1** up every rarity is reachable and live immediately, and higher levels shift your *odds* toward the rarest finds. What never changes is the reward: the same find pays the same to everyone.
+
+**Why did my Rare pay me nothing?**
+Because you're at Scanner Level 0. Rare and Epic found at Level 0 are stored, not activated — no instant reward, no daily income — until you buy Level 1. Commons pay their instant reward as normal. See [Asteroid storage](../lv0/storage.md).
+
+**How much can I withdraw at Level 0?**
+$25 in total, for the lifetime of the account. You keep earning and playing normally; only cashing out is capped, and the cap lifts when you buy Scanner Level 1. See [The Level 0 withdrawal limit](../lv0/limits.md).
+
+**Can I get a Scanner without paying?**
+Yes — join a [Salvage Run](../lv0/salvage-run.md). It runs every day, it's open to any new player without a Scanner, and the winners recover a working Scanner Level 0. How many are recovered depends on how many explorers join, and the number for each run is published in the Salvage Run screen.
 
 **How do I earn from referrals?**
 When someone in your network buys a Scanner upgrade, you earn a commission (8/4/2 standard, 10/6/3 ambassador) — paid to you instantly in ASTRO. See [How referrals work](../referral/overview.md).
@@ -31,7 +40,7 @@ You buy Scanner upgrades directly with USDT (BEP20). Everything you earn in-game
 It already has — Season 1 launched on July 24, 2026 and is running now. See [Founder Phase](../founder/overview.md) for what the pre-launch window was.
 
 **Is it still free to join?**
-Yes. A new explorer claims a **Level 0 Shiba** for free. Free entry closes on **August 6, 2026**; after that, game access becomes paid. Numbers are limited and it may close earlier. See [Claim your Shiba](../getting-started/claim.md).
+Free entry closed on **August 6, 2026**. Joining now costs **10 USDT** for a [Scanner Level 0](../lv0/overview.md) — or you can win one for nothing in the daily [Salvage Run](../lv0/salvage-run.md). See [Claim your Shiba](../getting-started/claim.md).
 
 **What wallet do I need?**
 A BEP20 (BSC) wallet — for paying (USDT) and withdrawing your earnings.

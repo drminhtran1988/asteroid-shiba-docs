@@ -10,6 +10,13 @@
 * [Home screen tour](getting-started/home.md)
 * [Your first hunt](getting-started/first-hunt.md)
 
+## Scanner Level 0
+
+* [Scanner Level 0](lv0/overview.md)
+* [Asteroid storage](lv0/storage.md)
+* [The Level 0 withdrawal limit](lv0/limits.md)
+* [Salvage Run](lv0/salvage-run.md)
+
 ## Core Gameplay
 
 * [Signals & Hunting](gameplay/signals-hunting.md)

@@ -15,7 +15,7 @@ Every asteroid you find belongs to one of six classes. The rarer the class, the 
 
 ## The key idea
 
-A free Scanner (Level 0) finds **Common**. From **Level 1** up, the full range opens — Rare, Epic, Legendary and Genesis all become reachable — and each higher level shifts the odds further toward the rarest finds. What your Scanner never changes is the reward: a given find pays the same to everyone.
+**Level 0** can find Common, Rare and Epic — but only Common earns there; Rare and Epic wait in [storage](../lv0/storage.md) until you upgrade. From **Level 1** up the full range opens, Legendary and Genesis included, everything you find is live immediately, and each higher level shifts the odds further toward the rarest finds. What your Scanner never changes is the reward: a given find pays the same to everyone.
 
 See exact rewards in [**What each is worth**](values.md).
 

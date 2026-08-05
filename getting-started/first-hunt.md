@@ -10,9 +10,9 @@ Every screen below is the real Mini App. The orange numbers (①, ②, …) poin
 
 Everything starts on one screen. Your Shiba stands on the launch platform, your stats sit across the top, and the big orange button is how you play.
 
-<div align="right"><figure><img src="../.gitbook/assets/first-hunt-home.png" alt="Asteroid Shiba home screen with numbered callouts" width="360"><figcaption><p>① ASTRO BALANCE — your banked tokens · ② SCANNER — your account-wide level · ③ MINING — how much ASTRO your fleet earns per day · ④ ASTEROIDS — active asteroids out of your cap (1 on a free Scanner, 50 from Level 1) · ⑤ COLLECT ASTRO — mined tokens waiting to be banked · ⑥ START HUNT · 5/5 — signals left today</p></figcaption></figure></div>
+<div align="right"><figure><img src="../.gitbook/assets/first-hunt-home.png" alt="Asteroid Shiba home screen with numbered callouts" width="360"><figcaption><p>① ASTRO BALANCE — your banked tokens · ② SCANNER — your account-wide level · ③ MINING — how much ASTRO your fleet earns per day · ④ ASTEROIDS — active asteroids out of your cap (1 at Level 0, 50 from Level 1) · ⑤ COLLECT ASTRO — mined tokens waiting to be banked · ⑥ START HUNT · 5/5 — signals left today</p></figcaption></figure></div>
 
-A brand-new explorer looks exactly like this: balance 0, Scanner LV. 1, no asteroids — and **five free signals**. Everyone starts on the same footing.
+A brand-new explorer looks exactly like this: balance 0, no asteroids — and **five signals**. Everyone starts on the same footing.
 
 ## 2. Send a signal
 
@@ -32,20 +32,20 @@ The game tells you plainly: _"The signal returned empty. No ASTRO was awarded."_
 
 When a signal hits, the rock resolves out of the dark and the screen says **ASTEROID SECURED** — with its **rarity** (Common, Rare, Epic, Legendary, or the almost-mythical **Genesis**) and the ASTRO credited to you on the spot.
 
-<figure><img src="../.gitbook/assets/first-hunt-reveal.png" alt="Asteroid reveal — Rare asteroid secured, +5,000 ASTRO" width="360"><figcaption><p>ASTEROID REVEAL · this example (an upgraded Scanner) shows a Rare paying +5,000 ASTRO instantly. On a free Scanner, finds are Common. Tap VIEW ASTEROID to open it.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/first-hunt-reveal.png" alt="Asteroid reveal — Rare asteroid secured, +5,000 ASTRO" width="360"><figcaption><p>ASTEROID REVEAL · this example (an upgraded Scanner) shows a Rare paying +5,000 ASTRO instantly. At Level 0 a Rare is stored instead, and pays on upgrade. Tap VIEW ASTEROID to open it.</p></figcaption></figure>
 
-Discovery pays immediately, and the asteroid is yours for the whole season. The same asteroid pays the same to every player: your Scanner sets **which rarities you can find** and how likely each is — a free Scanner finds Common, and Level 1 and up open the rarer tiers — but it never changes the **reward**.
+Discovery pays immediately from Level 1 up, and the asteroid is yours for the whole season. The same asteroid pays the same to every player: your Scanner sets **which rarities you can find** and how likely each is — Level 0 finds Common, Rare and Epic, and Level 1 and up open the rest — but it never changes the **reward**. At Level 0 only Commons pay on discovery; Rare and Epic are held in [storage](../lv0/storage.md) until you upgrade.
 
 ## 5. It joins your fleet — and mines for you
 
 Open **Portfolio** to see everything you've found. Each asteroid quietly mines ASTRO into its own storage; you tap to collect.
 
-<figure><img src="../.gitbook/assets/first-hunt-portfolio.png" alt="Portfolio screen with numbered callouts" width="360"><figcaption><p>① Recorded income — what your whole fleet earns per day · ② Active asteroids — the cap is 1 on a free Scanner and 50 from Level 1 · ③ Ready to collect — tap to bank it · ④ RESEARCH R1 — upgrade this specific asteroid</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/first-hunt-portfolio.png" alt="Portfolio screen with numbered callouts" width="360"><figcaption><p>① Recorded income — what your whole fleet earns per day · ② Active asteroids — the cap is 1 at Level 0 and 50 from Level 1 · ③ Ready to collect — tap to bank it · ④ RESEARCH R1 — upgrade this specific asteroid</p></figcaption></figure>
 
 Two things worth knowing from this screen. Storage is finite — an asteroid that says **Storage full** has stopped mining until you collect, so a daily visit keeps the whole fleet working. And rarity is income: the Legendary above pays **+5K / day**, the Epic **+2K / day**.
 
 {% hint style="info" %}
-The fleet shown here belongs to a test account on an upgraded Scanner, already full at 50/50. On a free Scanner yours starts at **0 / 1** — one earning asteroid at a time, until you upgrade.
+The fleet shown here belongs to a test account on an upgraded Scanner, already full at 50/50. At Level 0 yours starts at **0 / 1** — one earning asteroid at a time, until you upgrade.
 {% endhint %}
 
 ## 6. Make an asteroid earn more — Research

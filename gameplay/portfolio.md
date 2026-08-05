@@ -19,14 +19,14 @@ Keep the ASTRO, or invest it in Research to earn more
 
 ## How many asteroids can earn at once
 
-| Scanner | Active earning asteroids |
-| ------- | ------------------------ |
-| **Level 0 (free)** | **1** |
-| **Level 1–10** | **50** |
+| Scanner | Active earning asteroids | Held in storage |
+| ------- | ------------------------ | --------------- |
+| **Level 0 · Entry** | **1** (Common only) | up to 49 |
+| **Level 1–10** | **50** | — |
 
-A **free** account keeps **one** asteroid earning at a time. Find a better one and you choose: replace the one you have, or keep it. Buying any Scanner upgrade opens the full fleet of 50.
+A **Level 0** account keeps **one** asteroid earning at a time, and only a Common can hold that slot. Everything else you find goes into [storage](../lv0/storage.md) and waits there — really yours, but not yet earning. Buying **Scanner Level 1** opens the full fleet of 50 and switches your whole storage on at once.
 
-You can *find* as many asteroids as you like at any level — instant Discovery rewards always come in. The limit is only on how many generate daily passive income at the same time.
+You can *find* as many asteroids as you like at any level; nothing is ever lost. From Level 1 up, every find also pays its instant Discovery reward immediately. At Level 0 that's true for Commons, but a Rare or Epic pays nothing on discovery — see [Asteroid storage](../lv0/storage.md).
 
 {% hint style="info" %}
 Most paying players never hit the 50 cap in a season — it's there so the biggest hunters face a real "which asteroids do I keep?" decision, not to limit everyday play.

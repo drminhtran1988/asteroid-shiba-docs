@@ -4,7 +4,7 @@ Your **Scanner** is how you get better at hunting. It's the one upgrade path for
 
 ## It opens rarities and shifts your odds
 
-A free Scanner (Level 0) finds **Common**. From **Level 1** up, the full rarity range opens — Rare, Epic, Legendary and Genesis — and each level tilts the whole find-curve further toward the rarer, more valuable asteroids.
+**Level 0** — the entry tier — finds Common, Rare and Epic, though only Common earns there; the rest wait in [storage](../lv0/storage.md). From **Level 1** up, the full rarity range opens and everything you find is live immediately, with each level tilting the find-curve further toward the rarer, more valuable asteroids.
 
 One thing the Scanner never touches: **what an asteroid is worth**. The same find pays the same to everyone — your level changes how *often* and how *rare* your finds are, never the reward.
 
@@ -36,19 +36,20 @@ Scanner upgrades are bought **one level at a time, in order** — each level unl
 
 | Scanner | Rank | Price | Total to reach |
 | ------- | ---- | ----- | -------------- |
-| **Lv1** | Novice | 50 USDT | 50 USDT |
-| **Lv2** | Novice | 75 USDT | 125 USDT |
-| **Lv3** | Hunter | 100 USDT | 225 USDT |
-| **Lv4** | Hunter | 150 USDT | 375 USDT |
-| **Lv5** | Pro | 200 USDT | 575 USDT |
-| **Lv6** | Pro | 250 USDT | 825 USDT |
-| **Lv7** | Elite | 350 USDT | 1,175 USDT |
-| **Lv8** | Elite | 500 USDT | 1,675 USDT |
-| **Lv9** | Legend | 750 USDT | 2,425 USDT |
-| **Lv10** | Legend | 1,000 USDT | 3,425 USDT |
+| **Lv0** | Entry | 10 USDT | 10 USDT |
+| **Lv1** | Novice | 50 USDT | 60 USDT |
+| **Lv2** | Novice | 75 USDT | 135 USDT |
+| **Lv3** | Hunter | 100 USDT | 235 USDT |
+| **Lv4** | Hunter | 150 USDT | 385 USDT |
+| **Lv5** | Pro | 200 USDT | 585 USDT |
+| **Lv6** | Pro | 250 USDT | 835 USDT |
+| **Lv7** | Elite | 350 USDT | 1,185 USDT |
+| **Lv8** | Elite | 500 USDT | 1,685 USDT |
+| **Lv9** | Legend | 750 USDT | 2,435 USDT |
+| **Lv10** | Legend | 1,000 USDT | 3,435 USDT |
 
 {% hint style="info" %}
-Prices are in USDT on BNB Smart Chain (BEP20). **Level 0 is free** — every account starts there. "Total to reach" is the cumulative spend from Level 0.
+Prices are in USDT on BNB Smart Chain (BEP20). **Level 0 costs 10 USDT** and is where every account starts — or you can win one for free in a [Salvage Run](../lv0/salvage-run.md). "Total to reach" is the cumulative spend including entry.
 {% endhint %}
 
 ## What it earns back
@@ -57,6 +58,7 @@ How long the ASTRO you earn takes to match what you spent, if you use all **5 si
 
 | Scanner | Total spent | Estimated break-even |
 | ------- | ----------- | -------------------- |
+| **Lv0** | 10 USDT | ~73 days |
 | **Lv1** | 50 USDT | ~67 days |
 | **Lv2** | 125 USDT | ~60 days |
 | **Lv3** | 225 USDT | ~56 days |

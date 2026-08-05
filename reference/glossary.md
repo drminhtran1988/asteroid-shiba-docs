@@ -8,19 +8,23 @@
 
 **Rarity** — an asteroid's class: Empty, Common, Rare, Epic, Legendary, or Genesis.
 
-**Scanner** — your account upgrade path; a free Scanner finds Common, and each level from 1 up opens rarer tiers and raises the *probability* of finding them.
+**Scanner** — your account upgrade path; Level 0 is the paid entry tier, and each level from 1 up opens rarer tiers and raises the *probability* of finding them.
 
 **Research** — spending ASTRO on a specific asteroid to raise its daily income (up to +50%). Burns ASTRO.
 
-**Portfolio** — your collection of found asteroids that mine ASTRO for you (1 active earner on a free Scanner, up to 50 from Level 1).
+**Portfolio** — your collection of found asteroids that mine ASTRO for you (1 active earner at Level 0, up to 50 from Level 1).
 
 **Buffer** — each asteroid's storage; fills up, then pauses until you Collect.
 
 **ASTRO** — the in-game currency. 1 ASTRO ≈ $0.001. Earned by finding and holding asteroids, spent on Research.
 
-**Genesis** — the rarest, highest-value asteroid tier. Time-gated; reachable from a Level 1 Scanner up (a free Scanner finds only Common).
+**Genesis** — the rarest, highest-value asteroid tier. Time-gated; reachable from a Level 1 Scanner up, never at Level 0.
 
 **Explorer Points** — earned via Research; determine your leaderboard rank.
+
+**Storage** — asteroids found at Level 0 that are yours but not yet earning; they activate when you buy Scanner Level 1.
+
+**Salvage Run** — the free daily draw where explorers without a Scanner can recover a Scanner Level 0.
 
 **Founder Shiba** — the free, exclusive mascot claimable only during the Founder Phase.
 

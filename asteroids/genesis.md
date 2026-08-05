@@ -18,6 +18,6 @@ There are **no special mechanics** after you find one — no special perks, no t
 
 ## Who can find it
 
-**Any explorer with a Level 1 Scanner or higher**, once it opens. A free Scanner (Level 0) finds only Common — Genesis, like every rarity above Common, becomes reachable from **Level 1** up. There's also a time-gate: Genesis only becomes findable **after a certain point in the season**, so the earliest days build anticipation before the rarest prize appears. After that, the higher your Scanner level, the better your _odds_.
+**Any explorer with a Level 1 Scanner or higher**, once it opens. Genesis is not findable at Level 0 at all — it becomes reachable from **Level 1** up. There's also a time-gate: Genesis only becomes findable **after a certain point in the season**, so the earliest days build anticipation before the rarest prize appears. After that, the higher your Scanner level, the better your _odds_.
 
 **Next:** [What the Scanner does →](../scanner/overview.md)

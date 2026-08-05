@@ -7,16 +7,22 @@ Getting into Asteroid Shiba takes about a minute.
 * **Telegram** — the game runs as a Mini App inside Telegram.
 * **A BEP20 (BSC) wallet** — for payments and, later, withdrawals. You can add this at any time; you don't need it just to claim.
 
-## Claim your Level 0 Shiba
+## Get your Scanner Level 0
 
-Every new explorer claims a **Level 0 Shiba** — your starting mascot — for **free**.
+Every explorer starts at **Scanner Level 0** — the entry tier. There are two ways to get one.
+
+**Buy it — 10 USDT (BEP20).**
 
 1. Open the Asteroid Shiba Mini App in Telegram.
 2. Join the required Telegram channel and chat when prompted.
-3. Tap **Claim** to lock in your Shiba.
+3. Pay 10 USDT and start hunting the same minute.
 
-{% hint style="warning" %}
-**Free entry closes on August 6, 2026.** After that, joining Asteroid Shiba becomes paid. Numbers are limited and it may close earlier, so claim while it is open.
+**Win it — [Salvage Run](../lv0/salvage-run.md), free.**
+
+Every day, explorers without a Scanner go out into the debris field, and a number of them recover a working Scanner Level 0. Joining costs nothing, there's no waiting period, and it runs again tomorrow.
+
+{% hint style="info" %}
+Free entry closed on **August 6, 2026**. Salvage Run is the way in without paying — see [Scanner Level 0](../lv0/overview.md) for what the tier includes, including its $25 withdrawal limit.
 {% endhint %}
 
 {% hint style="info" %}

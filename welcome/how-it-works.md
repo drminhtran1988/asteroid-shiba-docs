@@ -6,7 +6,7 @@ You don't need to read a manual to start. Here's the whole game in five steps.
 
 ### 1. You get signals
 
-Every player gets **5 signals per day**, free. A signal is one attempt to scan the field and find an asteroid. No passes, no tiers — everyone hunts on equal footing.
+Every player gets **5 signals per day**, at every Scanner level. A signal is one attempt to scan the field and find an asteroid. No passes, no paid boosts — your Scanner changes what you can find, never how often you hunt.
 
 ### 2. You scan
 

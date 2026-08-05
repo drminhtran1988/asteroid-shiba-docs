@@ -19,7 +19,7 @@ Some asteroids are empty rock. A few hold real value — Common, Rare, Epic, Leg
 ## What makes it different
 
 * **Ownership.** A valuable asteroid you find stays in your portfolio and keeps earning until the season ends — you're building a mining fleet, not chasing a single prize.
-* **Same reward for everyone.** A find pays the same no matter who you are — your Scanner never changes the payout. A free Scanner finds Common; from Level 1 the full range opens, up to Genesis, and higher levels shift your _chances_ toward the rarest finds.
+* **Same reward for everyone.** A find pays the same no matter who you are — your Scanner never changes the payout. Level 0 hunts Common, Rare and Epic; from Level 1 the full range opens, up to Genesis, and higher levels shift your _chances_ toward the rarest finds.
 * **A real network.** Invite explorers and your network carries into the game, boosting your start and your odds.
 
 ## Where to next

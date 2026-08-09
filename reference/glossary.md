@@ -30,7 +30,7 @@
 
 **Ambassador** — a manually granted profile with higher referral rates (10/6/3). Not purchasable.
 
-**Active referral** — a referred friend who has spent $50+; counts toward your Explorer Network bonus (find-chance boost).
+**Active referral** — a referred friend who has spent $10+; counts toward your Explorer Network bonus (find-chance boost).
 
 **Upgrade commission** — the ASTRO you earn when your referrals buy Scanner upgrades (8/4/2 standard, 10/6/3 ambassador), paid on top by the game.
 

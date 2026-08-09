@@ -41,6 +41,6 @@ Paid in ASTRO the moment they upgrade — reinvest it in Research or withdraw it
 
 ## What counts: active referrals
 
-An **active referral** is a friend who has spent **$50 or more** in the game. Active referrals are what count toward your [Explorer Network bonus](explorer-bonus.md) — the boost to your own find-chance. Free accounts and anyone under $50 don't count toward that bonus.
+An **active referral** is a friend who has spent **$10 or more** in the game. Active referrals are what count toward your [Explorer Network bonus](explorer-bonus.md) — the boost to your own find-chance. Free accounts and anyone under $10 don't count toward that bonus.
 
 **Next:** [Explorer Network bonus →](explorer-bonus.md)

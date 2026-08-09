@@ -17,7 +17,7 @@ Every **active explorer** in your network tunes your scanner. The bigger your ac
 ## How to read it
 
 * **Milestones, not per-head.** You reach a tier once your active network hits that size. Think of them as goals: 10, 25, 50, 100.
-* **Active only.** Only friends who've spent $50+ count. See [Rates & active referrals](rates.md).
+* **Active only.** Only friends who've spent $10+ count. See [Rates & active referrals](rates.md).
 * **Across every rarity.** The bonus lifts your overall find-chance, spread across all rarities from Common to Genesis.
 
 {% hint style="info" %}

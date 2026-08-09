@@ -25,7 +25,7 @@ Yes — join a [Salvage Run](../lv0/salvage-run.md). It runs every day, it's ope
 When someone in your network buys a Scanner upgrade, you earn a commission (8/4/2 standard, 10/6/3 ambassador) — paid to you instantly in ASTRO. See [How referrals work](../referral/overview.md).
 
 **What's an "active" referral?**
-A friend who has spent $50+ in the game (cumulative). Active referrals count toward your [Explorer Network bonus](../referral/explorer-bonus.md), the boost to your own find-chance.
+A friend who has spent $10+ in the game (cumulative). Active referrals count toward your [Explorer Network bonus](../referral/explorer-bonus.md), the boost to your own find-chance.
 
 **Does inviting friends take rewards away from them?**
 No. Your commission is paid by the game on top — your friends get their full upgrade and keep everything they earn.

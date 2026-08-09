@@ -42,7 +42,7 @@ Open **Portfolio** to see everything you've found. Each asteroid quietly mines A
 
 <figure><img src="../.gitbook/assets/first-hunt-portfolio.png" alt="Portfolio screen with numbered callouts" width="360"><figcaption><p>① Recorded income — what your whole fleet earns per day · ② Active asteroids — the cap is 1 at Level 0 and 50 from Level 1 · ③ Ready to collect — tap to bank it · ④ RESEARCH R1 — upgrade this specific asteroid</p></figcaption></figure>
 
-Two things worth knowing from this screen. Storage is finite — an asteroid that says **Storage full** has stopped mining until you collect, so a daily visit keeps the whole fleet working. And rarity is income: the Legendary above pays **+5K / day**, the Epic **+2K / day**.
+Two things worth knowing from this screen. Storage is finite — an asteroid that says **Storage full** has stopped mining until you collect, so a daily visit keeps the whole fleet working. And rarity is income: the Legendary above pays **+5K / day**, the Epic **+2.8K / day**.
 
 {% hint style="info" %}
 The fleet shown here belongs to a test account on an upgraded Scanner, already full at 50/50. At Level 0 yours starts at **0 / 1** — one earning asteroid at a time, until you upgrade.

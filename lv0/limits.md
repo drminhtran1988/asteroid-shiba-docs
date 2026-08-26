@@ -14,7 +14,7 @@ Your remaining allowance is shown on the withdrawal screen, so you always know w
 
 ## Who it applies to
 
-**Every Level 0 account.** Paid entries, accounts that won their Scanner in a [Salvage Run](salvage-run.md), and Founder accounts alike. Level 0 is one tier with one set of rules.
+**Every Level 0 account.** Paid entries and Founder accounts alike — Level 0 is one tier with one set of rules. Winning a [Salvage Run](salvage-run.md) awards Scanner Level 1, which is not subject to this limit.
 
 ## Why it exists
 

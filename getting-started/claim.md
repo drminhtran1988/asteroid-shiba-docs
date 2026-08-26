@@ -19,10 +19,10 @@ Every explorer starts at **Scanner Level 0** — the entry tier. There are two w
 
 **Win it — [Salvage Run](../lv0/salvage-run.md), free.**
 
-Every day, explorers without a Scanner go out into the debris field, and a number of them recover a working Scanner Level 0. Joining costs nothing, there's no waiting period, and it runs again tomorrow.
+Every two days, explorers who have not started hunting yet go out into the debris field, and one of them comes back with a working **Scanner Level 1**. Joining costs nothing. You must be subscribed to the developer channel and post `#salvagerun` in the community chat for every run you enter — both are checked before the Scanner is handed over.
 
 {% hint style="info" %}
-Free entry closed on **August 6, 2026**. Salvage Run is the way in without paying — see [Scanner Level 0](../lv0/overview.md) for what the tier includes, including its $25 withdrawal limit.
+Free entry closed on **August 6, 2026**. Salvage Run is the way in without paying — see [Salvage Run](../lv0/salvage-run.md) for the full rules.
 {% endhint %}
 
 {% hint style="info" %}

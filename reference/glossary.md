@@ -24,7 +24,7 @@
 
 **Storage** — asteroids found at Level 0 that are yours but not yet earning; they activate when you buy Scanner Level 1.
 
-**Salvage Run** — the free daily draw where explorers without a Scanner can recover a Scanner Level 0.
+**Salvage Run** — the free draw held every two days, where one new explorer who has not started hunting yet wins a Scanner Level 1.
 
 **Founder Shiba** — the free, exclusive mascot claimable only during the Founder Phase.
 

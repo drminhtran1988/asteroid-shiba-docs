@@ -49,7 +49,7 @@ Scanner upgrades are bought **one level at a time, in order** — each level unl
 | **Lv10** | Legend | 1,000 USDT | 3,435 USDT |
 
 {% hint style="info" %}
-Prices are in USDT on BNB Smart Chain (BEP20). **Level 0 costs 10 USDT** and is where every account starts — or you can win one for free in a [Salvage Run](../lv0/salvage-run.md). "Total to reach" is the cumulative spend including entry.
+Prices are in USDT on BNB Smart Chain (BEP20). **Level 0 costs 10 USDT** and is where every account starts. A **Scanner Level 1** can also be won for free in a [Salvage Run](../lv0/salvage-run.md). "Total to reach" is the cumulative spend including entry.
 {% endhint %}
 
 ## What it earns back

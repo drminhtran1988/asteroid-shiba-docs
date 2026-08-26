@@ -22,7 +22,7 @@ The exact conversion rate, minimum withdrawal, and fees are still being finalize
 
 **Scanner Level 0 accounts can withdraw up to $25 in total, for the lifetime of the account.**
 
-You keep earning and playing normally — mining, Research and hunting are untouched. Only cashing out is capped, and the cap counts every withdrawal from the account, whether the ASTRO came from mining, Research or referral commission. It applies to every Level 0 account: bought, won in a [Salvage Run](../lv0/salvage-run.md), or Founder.
+You keep earning and playing normally — mining, Research and hunting are untouched. Only cashing out is capped, and the cap counts every withdrawal from the account, whether the ASTRO came from mining, Research or referral commission. It applies to every Level 0 account, bought or Founder. A [Salvage Run](../lv0/salvage-run.md) awards Scanner Level 1, which is not capped.
 
 Buying **Scanner Level 1** removes the limit. Full detail: [The Level 0 withdrawal limit](../lv0/limits.md).
 

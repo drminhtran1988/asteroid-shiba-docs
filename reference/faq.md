@@ -19,7 +19,7 @@ Because you're at Scanner Level 0. Rare and Epic found at Level 0 are stored, no
 $25 in total, for the lifetime of the account. You keep earning and playing normally; only cashing out is capped, and the cap lifts when you buy Scanner Level 1. See [The Level 0 withdrawal limit](../lv0/limits.md).
 
 **Can I get a Scanner without paying?**
-Yes — join a [Salvage Run](../lv0/salvage-run.md). It runs every day, it's open to any new player without a Scanner, and the winners recover a working Scanner Level 0. How many are recovered depends on how many explorers join, and the number for each run is published in the Salvage Run screen.
+Yes — join a [Salvage Run](../lv0/salvage-run.md). It is drawn every two days and one explorer wins a working **Scanner Level 1**. It is open to new explorers who have not started hunting yet. You must be subscribed to the developer channel and post `#salvagerun` in the community chat for every run you enter — both are checked before the Scanner is awarded.
 
 **How do I earn from referrals?**
 When someone in your network buys a Scanner upgrade, you earn a commission (8/4/2 standard, 10/6/3 ambassador) — paid to you instantly in ASTRO. See [How referrals work](../referral/overview.md).
@@ -40,7 +40,7 @@ You buy Scanner upgrades directly with USDT (BEP20). Everything you earn in-game
 It already has — Season 1 launched on July 24, 2026 and is running now. See [Founder Phase](../founder/overview.md) for what the pre-launch window was.
 
 **Is it still free to join?**
-Free entry closed on **August 6, 2026**. Joining now costs **10 USDT** for a [Scanner Level 0](../lv0/overview.md) — or you can win one for nothing in the daily [Salvage Run](../lv0/salvage-run.md). See [Claim your Shiba](../getting-started/claim.md).
+Free entry closed on **August 6, 2026**. Joining now costs **10 USDT** for a [Scanner Level 0](../lv0/overview.md). A **Scanner Level 1** can also be won for nothing in the [Salvage Run](../lv0/salvage-run.md), drawn every two days. See [Claim your Shiba](../getting-started/claim.md).
 
 **What wallet do I need?**
 A BEP20 (BSC) wallet — for paying (USDT) and withdrawing your earnings.

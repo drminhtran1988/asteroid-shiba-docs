@@ -37,16 +37,16 @@ Scanner upgrades are bought **one level at a time, in order** — each level unl
 | Scanner | Rank | Price | Total to reach |
 | ------- | ---- | ----- | -------------- |
 | **Lv0** | Entry | 10 USDT | 10 USDT |
-| **Lv1** | Novice | 50 USDT | 60 USDT |
-| **Lv2** | Novice | 75 USDT | 135 USDT |
-| **Lv3** | Hunter | 100 USDT | 235 USDT |
-| **Lv4** | Hunter | 150 USDT | 385 USDT |
-| **Lv5** | Pro | 200 USDT | 585 USDT |
-| **Lv6** | Pro | 250 USDT | 835 USDT |
-| **Lv7** | Elite | 350 USDT | 1,185 USDT |
-| **Lv8** | Elite | 500 USDT | 1,685 USDT |
-| **Lv9** | Legend | 750 USDT | 2,435 USDT |
-| **Lv10** | Legend | 1,000 USDT | 3,435 USDT |
+| **Lv1** | Novice | 60 USDT | 70 USDT |
+| **Lv2** | Novice | 90 USDT | 160 USDT |
+| **Lv3** | Hunter | 120 USDT | 280 USDT |
+| **Lv4** | Hunter | 180 USDT | 460 USDT |
+| **Lv5** | Pro | 240 USDT | 700 USDT |
+| **Lv6** | Pro | 300 USDT | 1,000 USDT |
+| **Lv7** | Elite | 420 USDT | 1,420 USDT |
+| **Lv8** | Elite | 600 USDT | 2,020 USDT |
+| **Lv9** | Legend | 900 USDT | 2,920 USDT |
+| **Lv10** | Legend | 1,200 USDT | 4,120 USDT |
 
 {% hint style="info" %}
 Prices are in USDT on BNB Smart Chain (BEP20). **Level 0 costs 10 USDT** and is where every account starts. A **Scanner Level 1** can also be won for free in a [Salvage Run](../lv0/salvage-run.md). "Total to reach" is the cumulative spend including entry.
@@ -59,16 +59,16 @@ How long the ASTRO you earn takes to match what you spent, if you use all **5 si
 | Scanner | Total spent | Estimated break-even |
 | ------- | ----------- | -------------------- |
 | **Lv0** | 10 USDT | ~73 days |
-| **Lv1** | 50 USDT | ~67 days |
-| **Lv2** | 125 USDT | ~60 days |
-| **Lv3** | 225 USDT | ~56 days |
-| **Lv4** | 375 USDT | ~53 days |
-| **Lv5** | 575 USDT | ~51 days |
-| **Lv6** | 825 USDT | ~49 days |
-| **Lv7** | 1,175 USDT | ~48 days |
-| **Lv8** | 1,675 USDT | ~46 days |
-| **Lv9** | 2,425 USDT | ~44 days |
-| **Lv10** | 3,425 USDT | ~43 days |
+| **Lv1** | 60 USDT | ~73 days |
+| **Lv2** | 150 USDT | ~66 days |
+| **Lv3** | 270 USDT | ~62 days |
+| **Lv4** | 450 USDT | ~59 days |
+| **Lv5** | 690 USDT | ~57 days |
+| **Lv6** | 990 USDT | ~55 days |
+| **Lv7** | 1,410 USDT | ~53 days |
+| **Lv8** | 2,010 USDT | ~50 days |
+| **Lv9** | 2,910 USDT | ~51 days |
+| **Lv10** | 4,110 USDT | ~50 days |
 
 **Legendary and Genesis are deliberately left out of these numbers.** They are jackpots — rare by design — and a break-even figure that depended on hitting one would tell you nothing useful. Everything above is built only on Common, Rare and Epic, so the jackpots are upside on top, never the plan.
 

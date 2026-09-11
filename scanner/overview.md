@@ -54,21 +54,21 @@ Prices are in USDT on BNB Smart Chain (BEP20). **Level 0 costs 10 USDT** and is 
 
 ## What it earns back
 
-How long the ASTRO you earn takes to match what you spent, if you use all **5 signals every day**.
+How long the ASTRO you earn takes to match what you spent, if you use all **5 signals every day**. The spend column is the cumulative total including the 10 USDT entry, and each figure assumes you hunt at that level from the start — it is not the time to climb the ladder.
 
-| Scanner | Total spent | Estimated break-even |
-| ------- | ----------- | -------------------- |
+| Scanner | Total spent, including Lv0 | Estimated break-even |
+| ------- | -------------------------- | -------------------- |
 | **Lv0** | 10 USDT | ~73 days |
-| **Lv1** | 60 USDT | ~73 days |
-| **Lv2** | 150 USDT | ~66 days |
-| **Lv3** | 270 USDT | ~62 days |
-| **Lv4** | 450 USDT | ~59 days |
-| **Lv5** | 690 USDT | ~57 days |
-| **Lv6** | 990 USDT | ~55 days |
-| **Lv7** | 1,410 USDT | ~53 days |
-| **Lv8** | 2,010 USDT | ~50 days |
-| **Lv9** | 2,910 USDT | ~51 days |
-| **Lv10** | 4,110 USDT | ~50 days |
+| **Lv1** | 70 USDT | ~80 days |
+| **Lv2** | 160 USDT | ~68 days |
+| **Lv3** | 280 USDT | ~64 days |
+| **Lv4** | 460 USDT | ~60 days |
+| **Lv5** | 700 USDT | ~57 days |
+| **Lv6** | 1,000 USDT | ~55 days |
+| **Lv7** | 1,420 USDT | ~53 days |
+| **Lv8** | 2,020 USDT | ~51 days |
+| **Lv9** | 2,920 USDT | ~51 days |
+| **Lv10** | 4,120 USDT | ~50 days |
 
 **Legendary and Genesis are deliberately left out of these numbers.** They are jackpots — rare by design — and a break-even figure that depended on hitting one would tell you nothing useful. Everything above is built only on Common, Rare and Epic, so the jackpots are upside on top, never the plan.
 

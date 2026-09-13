@@ -14,11 +14,17 @@ As you research your asteroids, you earn **Explorer Points**. Points determine y
 Find asteroids → Research them → earn Explorer Points → climb the leaderboard
 ```
 
-## Season 1 leaderboard reward
+## Leaderboard reward
 
-The **$ASTEROID token has not been issued yet.** What Season 1 does is decide who is standing in line when it is.
+The **$ASTEROID token has not been issued yet.** What the leaderboard does is decide who is standing in line when it is.
 
-At the end of Season 1, the **top 100 explorers** on the leaderboard are added to the **token whitelist**, and **2% of the future token emission** is reserved for that group — distributed by rank. The higher you finish, the bigger your share.
+The **top 100 explorers** are added to the **token whitelist**, and **2% of the future token emission** is reserved for that group — distributed by rank. The higher you finish, the bigger your share.
+
+{% hint style="warning" %}
+**That top 100 is decided across every season up to listing — not by any single season.** Season 1 is the first stage of that race, not the end of it. Nothing is locked in until listing.
+{% endhint %}
+
+The rank system itself keeps developing from season to season up to listing: each season's ranks, rewards, and how they are weighted are set and announced for that season, and will not be identical to Season 1.
 
 {% hint style="info" %}
 No token exists today and nothing is claimable yet. Exact per-rank allocations, token details, and claim &#38; vesting terms will be published with the tokenomics ahead of the token generation event (TGE).

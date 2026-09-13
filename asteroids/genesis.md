@@ -18,6 +18,10 @@ There are **no special mechanics** after you find one — no special perks, no t
 
 ## Who can find it
 
-**Any explorer with a Level 1 Scanner or higher**, once it opens. Genesis is not findable at Level 0 at all — it becomes reachable from **Level 1** up. There's also a time-gate: Genesis only becomes findable **after a certain point in the season**, so the earliest days build anticipation before the rarest prize appears. After that, the higher your Scanner level, the better your _odds_.
+**Any explorer with a Level 1 Scanner or higher.** Genesis is not findable at Level 0 at all — it becomes reachable from **Level 1** up, and from there the higher your Scanner level, the better your _odds_. Genesis is also time-gated: it becomes findable **after a certain point in the season**, so the earliest days build anticipation before the rarest prize appears.
+
+## Season 1
+
+Season 1 held a pool of **five Genesis asteroids, and all five were found.** The season is complete — see [Seasons & leaderboard](../seasons/overview.md).
 
 **Next:** [What the Scanner does →](../scanner/overview.md)

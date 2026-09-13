@@ -24,7 +24,7 @@ Chance per signal at Level 0. Empty is the rest — **99.31%**.
 | **Rare** | 0.07% | Goes to storage. No instant reward, no daily income until Level 1. |
 | **Epic** | 0.02% | Goes to storage. No instant reward, no daily income until Level 1. |
 | **Legendary** | — | Not findable at Level 0. |
-| **Genesis** | 🔒 | Not findable at Level 0, and not in play yet at any level. |
+| **Genesis** | — | Not findable at Level 0. |
 
 Rare and Epic became findable at Level 0 so that the entry tier carries a real chance at something big — not just a slow trickle of Commons. What Level 0 doesn't do is let you *use* them yet.
 

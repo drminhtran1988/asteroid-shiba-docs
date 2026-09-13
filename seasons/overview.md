@@ -2,6 +2,10 @@
 
 Asteroid Shiba is played in **seasons**. Each season has a fixed pool of valuable asteroids, its own hunt, and its own competition.
 
+{% hint style="info" %}
+**Season 1 is complete.** All five Genesis asteroids of the season were found. Season 2 prelaunch is coming — details will be announced ahead of it.
+{% endhint %}
+
 ## Explorer Points & the leaderboard
 
 As you research your asteroids, you earn **Explorer Points**. Points determine your place on the **season leaderboard** — a race among all explorers to build the most valuable operation.

@@ -24,7 +24,7 @@ Founders who build their network early start the season far ahead.
 
 ## Launch
 
-**Asteroid Shiba launched on July 24, 2026.** Season 1 is running now.
+**Asteroid Shiba launched on July 24, 2026.** Season 1 has since finished.
 
 {% hint style="info" %}
 Free entry closed on **August 6, 2026**. New explorers now get a **Scanner Level 0** for 10 USDT (BEP20). A **Scanner Level 1** can also be won for free in the [Salvage Run](../lv0/salvage-run.md), drawn every two days. See [Claim your Shiba](../getting-started/claim.md).

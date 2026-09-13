@@ -37,7 +37,7 @@ Keep it, invest it in [Research](../research/overview.md) to boost an asteroid's
 You buy Scanner upgrades directly with USDT (BEP20). Everything you earn in-game is ASTRO, which you can withdraw as USDT (BEP20) at a set rate. See [Payments & Withdrawals](../payments/overview.md).
 
 **When does the game launch?**
-It already has — Season 1 launched on July 24, 2026 and is running now. See [Founder Phase](../founder/overview.md) for what the pre-launch window was.
+It already has — Season 1 launched on July 24, 2026 and is now complete. Season 2 prelaunch is coming. See [Founder Phase](../founder/overview.md) for what the pre-launch window was.
 
 **Is it still free to join?**
 Free entry closed on **August 6, 2026**. Joining now costs **10 USDT** for a [Scanner Level 0](../lv0/overview.md). A **Scanner Level 1** can also be won for nothing in the [Salvage Run](../lv0/salvage-run.md), drawn every two days. See [Claim your Shiba](../getting-started/claim.md).

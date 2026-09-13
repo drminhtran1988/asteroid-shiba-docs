@@ -10,20 +10,20 @@ Chance per signal. **Empty is the rest of each row** — at Level 0 that's 99.31
 
 | Lv | Common | Rare | Epic | Legendary | Genesis |
 | -- | ------ | ---- | ---- | --------- | ------- |
-| **0 · Entry** | 0.60% | 0.07% | 0.02% | 0% | 🔒 |
-| **1** | 1.98% | 0.07% | 0.02% | 0.01% | 🔒 |
-| **2** | 3.52% | 0.32% | 0.16% | 0.08% | 🔒 |
-| **3 · Hunter** | 4.10% | 0.62% | 0.47% | 0.11% | 🔒 |
-| **4** | 4.40% | 1.04% | 1.05% | 0.16% | 🔒 |
-| **5 · Pro** | 4.91% | 1.69% | 1.84% | 0.23% | 🔒 |
-| **6** | 5.03% | 2.53% | 2.98% | 0.33% | 🔒 |
-| **7 · Elite** | 5.87% | 4.08% | 4.61% | 0.47% | 🔒 |
-| **8** | 6.32% | 6.37% | 7.21% | 0.67% | 🔒 |
-| **9 · Legend** | 8.86% | 10.86% | 11.32% | 0.95% | 🔒 |
-| **10** | 10.50% | 17.50% | 20.50% | 1.35% | 🔒 |
+| **0 · Entry** | 0.60% | 0.07% | 0.02% | 0% | — |
+| **1** | 1.98% | 0.07% | 0.02% | 0.01% | 0.0025% |
+| **2** | 3.52% | 0.32% | 0.16% | 0.08% | 0.0050% |
+| **3 · Hunter** | 4.10% | 0.62% | 0.47% | 0.11% | 0.0100% |
+| **4** | 4.40% | 1.04% | 1.05% | 0.16% | 0.0200% |
+| **5 · Pro** | 4.91% | 1.69% | 1.84% | 0.23% | 0.0300% |
+| **6** | 5.03% | 2.53% | 2.98% | 0.33% | 0.0400% |
+| **7 · Elite** | 5.87% | 4.08% | 4.61% | 0.47% | 0.0500% |
+| **8** | 6.32% | 6.37% | 7.21% | 0.67% | 0.0800% |
+| **9 · Legend** | 8.86% | 10.86% | 11.32% | 0.95% | 0.1100% |
+| **10** | 10.50% | 17.50% | 20.50% | 1.35% | 0.1500% |
 
-{% hint style="warning" %}
-**Genesis is not in play yet.** It opens later in Season 1. Until then the Genesis column shows 🔒 at every level and no Genesis can be found by anyone.
+{% hint style="info" %}
+**Genesis was in play in Season 1** — reachable from a Level 1 Scanner up, never at Level 0. Season 1 is now complete and all five Genesis asteroids of that season were found. See [Seasons & leaderboard](../seasons/overview.md).
 {% endhint %}
 
 ## How to read it

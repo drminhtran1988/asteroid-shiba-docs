@@ -12,7 +12,7 @@ Higher commission at every level (vs. the standard 8/4/2):
 | L2 | **6%** |
 | L3 | **3%** |
 
-Up to **19%** of your network's Scanner-upgrade spend — paid to you **instantly in ASTRO**, on top, never taken from your referrals. Reinvest it in [Research](../research/overview.md) or withdraw it. See [How referrals work](overview.md).
+Up to **19%** of your network's Arsenal spend — paid to you **instantly in ASTRO**, on top, never taken from your referrals. See [How referrals work](overview.md).
 
 ## Who it's for
 

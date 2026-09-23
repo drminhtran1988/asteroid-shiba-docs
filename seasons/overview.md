@@ -1,9 +1,9 @@
 # Seasons & leaderboard
 
-Asteroid Shiba is played in **seasons**. Each season has a fixed pool of valuable asteroids, its own hunt, and its own competition.
+Asteroid Shiba is played in **seasons**. Each season has its own world and its own gameplay; the leaderboard runs through all of them.
 
 {% hint style="info" %}
-**Season 1 is complete.** All five Genesis asteroids of the season were found. **Season 2 — The Occupied Belt** is coming: see [Season 2 at a glance](../season-2/overview.md).
+**Season 1 is complete.** **The Season 2 prelaunch — The Occupied Belt — is live now:** see [Season 2 at a glance](../season-2/overview.md).
 {% endhint %}
 
 ## The leaderboard
@@ -52,4 +52,4 @@ Seasons are the frame for everything ahead: seasonal gameplay, **tournaments**, 
 The start of each season is announced in the official channels.
 {% endhint %}
 
-**Next:** [Founder Phase →](../founder/overview.md)
+**Next:** [Payments & Withdrawals →](../payments/overview.md)

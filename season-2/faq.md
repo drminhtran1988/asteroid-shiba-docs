@@ -37,7 +37,7 @@ No. The base builds them from CARGO — up to fifteen upgrades a season, opened 
 Its level becomes your Pistol level. See [Joining Season 2](joining.md).
 
 **I'm new. Is it free?**
-The starter kit is free. Its Pistol Lv0 works for 30 days; after that you need Pistol Lv1 (50 USDT) to keep flying. The Backpack stays yours. See [Joining Season 2](joining.md).
+The starter kit is free. Its Pistol Lv0 works for 30 days; after that you need Pistol Lv1 (50 USDT) to keep flying. The Backpack stays yours. On the free kit you can withdraw up to $20 in total; Pistol Lv1 removes the limit. See [Joining Season 2](joining.md).
 
 **Do referrals work in Season 2?**
 Yes — same rates, on every Arsenal purchase. See [Rates & active referrals](../referral/rates.md).

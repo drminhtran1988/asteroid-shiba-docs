@@ -1,34 +1,33 @@
 # How it works in 60 seconds
 
-You don't need to read a manual to start. Here's the whole game in five steps.
+This is how **Season 2 — The Occupied Belt** plays. Five steps.
 
-<img src="../.gitbook/assets/loop.svg" alt="" width="563">
+### 1. Shiba flies on her own
 
-### 1. You get signals
+Every UTC day there are **five departures in the schedule**. You don't press a button — Shiba flies to an occupied asteroid by herself. See [Expeditions & schedule](../season-2/expeditions.md).
 
-Every player gets **5 signals per day**, at every Scanner level. A signal is one attempt to scan the field and find an asteroid. No passes, no paid boosts — your Scanner changes what you can find, never how often you hunt.
+### 2. Up to three scenes
 
-### 2. You scan
+On the asteroid she has time for **up to three scenes** before the colony gathers: a clash, toxic air, a find, a tight passage or a ledge. Each scene tests one piece of her gear. If a scene goes wrong, it's a **setback**: she keeps what is already in her backpack and skips the next departure.
 
-Spend a signal and your Shiba scans the void. Most scans come back empty — space is mostly empty rock. But some light up.
+### 3. She brings home loot
 
-### 3. You discover
+**Cores** become **ASTRO** — the main loot, which you can withdraw. **Ore** becomes a little ASTRO plus **CARGO**, the workshop material. See [Loot: ASTRO & CARGO](../season-2/loot.md).
 
-When a scan hits, an asteroid is revealed with its **rarity**: Common, Rare, Epic, Legendary, or the ultra-rare Genesis. You get an instant reward the moment you find it.
+### 4. You are the voice in her headset
 
-### 4. It joins your portfolio
+Open the game once per UTC day: choose what she carries first, pick the next workshop upgrade, keep an eye on her temper, read her journal. Skip a whole day and she spends part of that day's ASTRO at [the Bar](../season-2/bar.md). See [Your role](../season-2/your-role.md).
 
-Every valuable asteroid you find **stays with you** and keeps generating rewards, day after day, until the season ends. The longer you play, the bigger your mining fleet — and the more it earns while you sleep.
+### 5. She gets stronger
 
-### 5. You grow
+* **Pistol** — how much ASTRO each find is worth.
+* **Backpack** — how much of the loot makes it home.
+* **Five slots** (helmet, suit, scanner, boots, rope) — upgraded by the workshop with CARGO.
 
-Two ways to get stronger:
-
-* **Scanner** — improves your _chances_ of finding rarer asteroids.
-* **Research** — increases how much a specific asteroid earns you.
+See [The Arsenal](../season-2/arsenal.md) and [Gear & the Workshop](../season-2/gear-workshop.md).
 
 ***
 
-That's it. Send a signal, hunt, discover, collect, grow. Everything else in this guide is just detail on those five steps.
+That's it: she flies, you decide, she grows. Start with [Season 2 at a glance](../season-2/overview.md).
 
-**Next:** [Claim your Shiba →](../getting-started/claim.md)
+**Next:** [Season 2 at a glance →](../season-2/overview.md)

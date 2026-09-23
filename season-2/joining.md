@@ -40,6 +40,8 @@ The 30-day limit is on **Pistol Lv0** only:
 * the **Backpack stays yours** — nothing happens to it;
 * with **Pistol Lv1 or higher** there is no time limit at all.
 
+On the free kit you can withdraw **up to $20 in total**; Pistol Lv1 removes that limit too. See [Payments & Withdrawals](../payments/overview.md).
+
 See [The Arsenal](arsenal.md).
 
 **Next:** [Community Drop →](community-drop.md)

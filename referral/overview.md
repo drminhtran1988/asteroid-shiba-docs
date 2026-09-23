@@ -15,18 +15,18 @@ You
 
 ## You earn when your network upgrades
 
-Every time someone in your network buys a **Scanner upgrade** or, in Season 2, anything in the **[Arsenal](../season-2/arsenal.md)** — a Pistol or a Backpack — you receive a commission: a percentage of what they spent, paid to you **instantly in ASTRO**. See **[Rates & active referrals](rates.md)**.
+Every time someone in your network buys anything in the **[Arsenal](../season-2/arsenal.md)** — a Pistol or a Backpack — you receive a commission: a percentage of what they spent, paid to you **instantly in ASTRO**. See **[Rates & active referrals](rates.md)**.
 
 ## Paid by the game — never taken from your friends
 
 Your commission is paid **by the game, on top**. Your friend gets their full upgrade; you receive your ASTRO reward separately. Nothing is deducted from anyone.
 
-> Your friend buys a Scanner upgrade → they get the full upgrade. You receive your commission in ASTRO, added on top.
+> Your friend buys a Pistol upgrade → they get the full upgrade. You receive your commission in ASTRO, added on top.
 
-Because it's paid in ASTRO, you can put it straight to work — invest it in [Research](../research/overview.md) to grow your own income, or withdraw it.
+It's paid in ASTRO, so you can withdraw it like any other ASTRO. See [Payments & Withdrawals](../payments/overview.md).
 
 ## What your network gives you
 
-**Commission** — a percentage of your network's Scanner-upgrade and Arsenal spend, in ASTRO. See **[Rates & active referrals](rates.md)**.
+**Commission** — a percentage of your network's Arsenal spend, in ASTRO. See **[Rates & active referrals](rates.md)**.
 
 **Next:** [Rates & active referrals →](rates.md)

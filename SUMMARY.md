@@ -19,40 +19,6 @@
 * [The Tenants](season-2/tenants.md)
 * [Season 2 FAQ](season-2/faq.md)
 
-## Getting Started
-
-* [Claim your Shiba](getting-started/claim.md)
-* [Home screen tour](getting-started/home.md)
-* [Your first hunt](getting-started/first-hunt.md)
-
-## Scanner Level 0
-
-* [Scanner Level 0](lv0/overview.md)
-* [Asteroid storage](lv0/storage.md)
-* [The Level 0 withdrawal limit](lv0/limits.md)
-* [Salvage Run](lv0/salvage-run.md)
-
-## Core Gameplay
-
-* [Signals & Hunting](gameplay/signals-hunting.md)
-* [Discovery & Reveal](gameplay/reveal.md)
-* [Your Portfolio](gameplay/portfolio.md)
-
-## Asteroids & Rarity
-
-* [Rarity tiers](asteroids/rarities.md)
-* [What each is worth](asteroids/values.md)
-* [Genesis explained](asteroids/genesis.md)
-
-## Scanner
-
-* [What the Scanner does](scanner/overview.md)
-* [Scanner odds](scanner/odds.md)
-
-## Research
-
-* [How Research works](research/overview.md)
-
 ## Referral
 
 * [How referrals work](referral/overview.md)
@@ -62,10 +28,6 @@
 ## Seasons & Competition
 
 * [Seasons & leaderboard](seasons/overview.md)
-
-## Founder Phase
-
-* [Founder Phase](founder/overview.md)
 
 ## Payments
 

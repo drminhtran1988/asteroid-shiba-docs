@@ -4,7 +4,7 @@ description: A space game in Telegram. Last season you took the asteroids. This 
 
 # What is Asteroid Shiba
 
-![Shiba on the ledge of an occupied asteroid](.gitbook/assets/s2-hero-occupied-belt.webp)
+![Asteroid Shiba — Season 2 · The Occupied Belt](.gitbook/assets/s2-cover.webp)
 
 **Asteroid Shiba is a space game inside Telegram.** Your Shiba flies out to asteroids, brings home valuable loot, and you turn it into ASTRO.
 

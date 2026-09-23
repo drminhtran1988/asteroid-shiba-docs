@@ -10,6 +10,10 @@ description: A space gold-rush game in Telegram. Hunt asteroids, strike it rich.
 
 The fantasy is simple: **you're an explorer who found the gold vein before anyone else.**
 
+{% hint style="info" %}
+**The Season 2 prelaunch is live now.** Season 2 — The Occupied Belt — Last season you took the asteroids. This season someone else got there first. See [Season 2 at a glance](season-2/overview.md). The Season 1 pages below describe the season that has finished.
+{% endhint %}
+
 ## The loop, in one line
 
 > Send a signal → scan → discover an asteroid → collect rewards → upgrade → hunt again.
@@ -20,7 +24,7 @@ Some asteroids are empty rock. A few hold real value — Common, Rare, Epic, Leg
 
 * **Ownership.** A valuable asteroid you find stays in your portfolio and keeps earning until the season ends — you're building a mining fleet, not chasing a single prize.
 * **Same reward for everyone.** A find pays the same no matter who you are — your Scanner never changes the payout. Level 0 hunts Common, Rare and Epic; from Level 1 the full range opens, up to Genesis, and higher levels shift your _chances_ toward the rarest finds.
-* **A real network.** Invite explorers and your network carries into the game, boosting your start and your odds.
+* **A real network.** Invite explorers and your network carries into the game: you earn a commission on every upgrade they buy.
 
 ## Where to next
 

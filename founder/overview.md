@@ -18,7 +18,7 @@ The referral program is **already live**. Every explorer you invite now:
 
 * carries into the game from **day one**,
 * gives you a **stronger start**,
-* and improves your **find-chance** through the [Explorer Network bonus](../referral/explorer-bonus.md).
+* and earns you a **commission** on every upgrade they buy — see [Rates & active referrals](../referral/rates.md).
 
 Founders who build their network early start the season far ahead.
 

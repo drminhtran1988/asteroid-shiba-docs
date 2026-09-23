@@ -4,18 +4,32 @@ Asteroid Shiba runs on two currencies, kept cleanly separate: **USDT** for payin
 
 ## What you pay with — USDT (BEP20)
 
-Scanner upgrades are bought **directly with USDT on BNB Smart Chain (BEP20)**. There's no balance to top up and manage — you pay for an upgrade, you get it. Simple.
+Scanner upgrades — and in Season 2, [Arsenal](../season-2/arsenal.md) purchases — are bought **directly with USDT on BNB Smart Chain (BEP20)**. There's no balance to top up and manage — you pay for an upgrade, you get it. Simple.
 
 ## What you earn — ASTRO
 
 Everything you earn inside the game is **ASTRO** — from discovering asteroids and from your portfolio's daily mining. ASTRO is the in-game currency: spend it on [Research](../research/overview.md) to grow your income, or withdraw it.
 
+{% hint style="info" %}
+**Season 2 has a second resource, CARGO.** It is workshop material only: it can't be sold, withdrawn or exchanged for ASTRO. See [Loot: ASTRO & CARGO](../season-2/loot.md).
+{% endhint %}
+
 ## Withdrawing your earnings
 
-When you're ready to cash out, your **ASTRO is converted to USDT (BEP20)** at a set rate and sent to your BSC wallet — once you reach the minimum withdrawal amount. Payouts are reviewed and processed **within 48 hours** of your request.
+When you're ready to cash out, your **ASTRO is converted to USDT (BEP20)** at a set rate and sent to your BSC wallet. Every payout is reviewed before it is sent.
+
+| Rule | |
+| ---- | --- |
+| **Minimum** | $10 per withdrawal |
+| **Maximum** | $150 per withdrawal |
+| **How often** | one withdrawal per 24 hours |
+| **Open requests** | one at a time — a new request can be created only after the previous one is processed |
+| **Processing time** | up to 72 hours |
+
+The same rules apply in Season 2.
 
 {% hint style="info" %}
-The exact conversion rate, minimum withdrawal, and fees are still being finalized and will be published here. *(Reference scale: 1 ASTRO = $0.001.)*
+**Rate: 1 ASTRO = 0.001 USDT** — the same as in Season 1. **No withdrawal fees.**
 {% endhint %}
 
 ## The Level 0 withdrawal limit
@@ -30,4 +44,4 @@ Buying **Scanner Level 1** removes the limit. Full detail: [The Level 0 withdraw
 
 * **Pay** in USDT (BEP20) — 10 USDT to enter at Level 0, then for Scanner upgrades.
 * **Earn** ASTRO — inside the game.
-* **Withdraw** — convert ASTRO → USDT (BEP20) to your wallet, within 48 hours.
+* **Withdraw** — convert ASTRO → USDT (BEP20) to your wallet: $10–$150 per withdrawal, one per 24 hours, processed within 72 hours.

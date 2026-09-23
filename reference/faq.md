@@ -25,7 +25,7 @@ Yes — join a [Salvage Run](../lv0/salvage-run.md). It is drawn every two days 
 When someone in your network buys a Scanner upgrade, you earn a commission (8/4/2 standard, 10/6/3 ambassador) — paid to you instantly in ASTRO. See [How referrals work](../referral/overview.md).
 
 **What's an "active" referral?**
-A friend who has spent $10+ in the game (cumulative). Active referrals count toward your [Explorer Network bonus](../referral/explorer-bonus.md), the boost to your own find-chance.
+A friend who has spent $10+ in the game (cumulative).
 
 **Does inviting friends take rewards away from them?**
 No. Your commission is paid by the game on top — your friends get their full upgrade and keep everything they earn.
@@ -37,7 +37,7 @@ Keep it, invest it in [Research](../research/overview.md) to boost an asteroid's
 You buy Scanner upgrades directly with USDT (BEP20). Everything you earn in-game is ASTRO, which you can withdraw as USDT (BEP20) at a set rate. See [Payments & Withdrawals](../payments/overview.md).
 
 **When does the game launch?**
-It already has — Season 1 launched on July 24, 2026 and is now complete. Season 2 prelaunch is coming. See [Founder Phase](../founder/overview.md) for what the pre-launch window was.
+It already has — Season 1 launched on July 24, 2026 and is now complete. **Season 2 — The Occupied Belt** is coming; see [Season 2 at a glance](../season-2/overview.md) and the [Season 2 FAQ](../season-2/faq.md).
 
 **Is it still free to join?**
 Free entry closed on **August 6, 2026**. Joining now costs **10 USDT** for a [Scanner Level 0](../lv0/overview.md). A **Scanner Level 1** can also be won for nothing in the [Salvage Run](../lv0/salvage-run.md), drawn every two days. See [Claim your Shiba](../getting-started/claim.md).
@@ -45,6 +45,9 @@ Free entry closed on **August 6, 2026**. Joining now costs **10 USDT** for a [Sc
 **What wallet do I need?**
 A BEP20 (BSC) wallet — for paying (USDT) and withdrawing your earnings.
 
+**Are airdrops and leaderboard rewards fixed?**
+No. The tokenomics are still in development, so airdrops, leaderboard rewards and other allocations may change from season to season. Figures are upper limits, not guarantees. See [Rewards may change](../seasons/overview.md#rewards-may-change).
+
 {% hint style="info" %}
-Withdrawal terms — the exact ASTRO to USDT rate, the minimum amount and any fees — are still being finalized and will be published here. Scanner [upgrade prices](../scanner/overview.md) and [Research costs](../research/overview.md) are published.
+Withdrawals: $10 minimum and $150 maximum per withdrawal, one per 24 hours, one open request at a time, processed within 72 hours. The rate is 1 ASTRO = 0.001 USDT, the same as in Season 1, with no withdrawal fees. Scanner [upgrade prices](../scanner/overview.md) and [Research costs](../research/overview.md) are published.
 {% endhint %}

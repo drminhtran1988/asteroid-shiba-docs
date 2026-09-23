@@ -15,7 +15,7 @@ You
 
 ## You earn when your network upgrades
 
-Every time someone in your network buys a **Scanner upgrade**, you receive a commission — a percentage of what they spent, paid to you **instantly in ASTRO**. See **[Rates & active referrals](rates.md)**.
+Every time someone in your network buys a **Scanner upgrade** or, in Season 2, anything in the **[Arsenal](../season-2/arsenal.md)** — a Pistol or a Backpack — you receive a commission: a percentage of what they spent, paid to you **instantly in ASTRO**. See **[Rates & active referrals](rates.md)**.
 
 ## Paid by the game — never taken from your friends
 
@@ -25,9 +25,8 @@ Your commission is paid **by the game, on top**. Your friend gets their full upg
 
 Because it's paid in ASTRO, you can put it straight to work — invest it in [Research](../research/overview.md) to grow your own income, or withdraw it.
 
-## Two things your network gives you
+## What your network gives you
 
-1. **Upgrade commission** — a percentage of your network's Scanner-upgrade spend, in ASTRO. See **[Rates & active referrals](rates.md)**.
-2. **Explorer Network bonus** — a boost to your own find-chance based on how many *active* explorers you have. See **[Explorer Network bonus](explorer-bonus.md)**.
+**Commission** — a percentage of your network's Scanner-upgrade and Arsenal spend, in ASTRO. See **[Rates & active referrals](rates.md)**.
 
 **Next:** [Rates & active referrals →](rates.md)

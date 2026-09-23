@@ -15,6 +15,6 @@ Spend a signal and your Shiba scans the void. One of two things happens:
 
 ## Why most scans are empty (and that's the point)
 
-Valuable asteroids are genuinely scarce — only a limited number exist each season. That scarcity is what makes a find feel like *striking gold*, not collecting a daily bonus. Your **Scanner** tilts the odds in your favor over time, and your **[Explorer Network bonus](../referral/explorer-bonus.md)** nudges them further — but the thrill of the hunt is always real.
+Valuable asteroids are genuinely scarce — only a limited number exist each season. That scarcity is what makes a find feel like *striking gold*, not collecting a daily bonus. Your **Scanner** tilts the odds in your favor over time — but the thrill of the hunt is always real.
 
 **Next:** [Discovery & Reveal →](reveal.md)

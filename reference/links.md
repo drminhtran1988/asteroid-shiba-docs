@@ -5,6 +5,7 @@ Everything official, in one place. **Asteroid Shiba has no website — the game 
 * 🎮 **Play the game** — [@AsteroidShiba\_app\_bot](https://t.me/AsteroidShiba_app_bot) (Telegram Mini App)
 * 📢 **Announcements channel** — [@asteroidshiba\_p2e](https://t.me/asteroidshiba_p2e)
 * 💬 **Community chat** — [@asteroidshiba\_game](https://t.me/asteroidshiba_game)
+* 🎭 **The Masked Dev** — [@TheMasked\_Dev](https://t.me/TheMasked_Dev) (required for Season 1 players entering Season 2)
 * 🐦 **X / Twitter** — [@AsteroidShibaHQ](https://x.com/AsteroidShibaHQ)
 * 🛟 **Support** — [@shiba\_asteroid](https://t.me/shiba_asteroid)
 

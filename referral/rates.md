@@ -1,6 +1,6 @@
 # Rates & active referrals
 
-Your commission is a percentage of what your network spends on **Scanner upgrades**, paid to you **instantly in ASTRO**, across three levels.
+Your commission is a percentage of what your network spends on **Scanner upgrades** and, in Season 2, on **Arsenal purchases** (Pistol and Backpack), paid to you **instantly in ASTRO**, across three levels.
 
 ## Standard rates
 
@@ -30,6 +30,10 @@ Up to **19%** of your network's upgrade spend.
 **Ambassador status is granted by hand, not bought.** It's reserved for influencers, partners, and community leaders — it cannot be purchased or unlocked inside the game.
 {% endhint %}
 
+{% hint style="info" %}
+**Season 2 — every Arsenal purchase counts.** There is no minimum: a 10 USDT Backpack, a 15 USDT upgrade or a Pistol level jump all earn the commission, calculated on the amount actually paid for that purchase.
+{% endhint %}
+
 ## A quick example
 
 Say your direct referral upgrades their Scanner to Level 6 (a $825 spend):
@@ -41,6 +45,6 @@ Paid in ASTRO the moment they upgrade — reinvest it in Research or withdraw it
 
 ## What counts: active referrals
 
-An **active referral** is a friend who has spent **$10 or more** in the game. Active referrals are what count toward your [Explorer Network bonus](explorer-bonus.md) — the boost to your own find-chance. Free accounts and anyone under $10 don't count toward that bonus.
+An **active referral** is a friend who has spent **$10 or more** in the game — Scanner upgrades and Season 2 Arsenal purchases both count.
 
-**Next:** [Explorer Network bonus →](explorer-bonus.md)
+**Next:** [Ambassador program →](ambassador.md)

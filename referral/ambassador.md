@@ -30,4 +30,4 @@ Message our support and tell us about your audience and reach:
 
 If it's a fit, we'll grant Ambassador status to your account. Your network — and higher rates — carry into the game from day one.
 
-**Next:** [Explorer Network bonus →](explorer-bonus.md)
+**Next:** [Seasons & leaderboard →](../seasons/overview.md)

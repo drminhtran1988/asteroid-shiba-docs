@@ -27,8 +27,6 @@ Two ways to get stronger:
 * **Scanner** — improves your _chances_ of finding rarer asteroids.
 * **Research** — increases how much a specific asteroid earns you.
 
-And your **referral network** boosts your find-chance on top of that.
-
 ***
 
 That's it. Send a signal, hunt, discover, collect, grow. Everything else in this guide is just detail on those five steps.

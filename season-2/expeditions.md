@@ -4,17 +4,19 @@ Shiba flies on her own, on a fixed schedule. You don't press a button to launch 
 
 ## The daily schedule (UTC)
 
-There are **five departures in the schedule** every UTC day:
+She wakes at **08:00**, has breakfast, and there are **five departures in the schedule** every UTC day:
 
 | Departure | Home |
 | --------- | ---- |
-| 00:00 | 03:15 |
-| 03:30 | 06:45 |
-| 07:00 | 10:15 |
-| 10:30 | 13:45 |
-| 14:00 | 17:15 |
+| 08:30 | 10:30 |
+| 10:45 | 12:45 |
+| 13:10 | 15:10 |
+| 15:45 | 17:45 |
+| 18:00 | 20:00 |
 
-**17:15 – 24:00 UTC is the evening** — the time for the workshop, her temper and tomorrow's order. See [Your role](your-role.md).
+Between flights she stays at the base: a short break after each return, and a nap from **15:10 to 15:40**. She turns in for the night at **22:30**.
+
+**20:00 – 24:00 UTC is the evening** — the time for the workshop, her temper and tomorrow's order. See [Your role](your-role.md). To keep her out of [the Bar](bar.md), open the game before **20:55 UTC**.
 
 **00:00 UTC** starts a new day: tomorrow's order and anything the workshop finished take effect.
 
@@ -22,16 +24,19 @@ There are **five departures in the schedule** every UTC day:
 All times are UTC and the same for every player. You don't need to be online at a particular hour — open the game once per UTC day. See [The Bar](bar.md).
 {% endhint %}
 
+{% hint style="warning" %}
+This timetable has applied since **7 October 2026**. Journal entries from earlier days show the departure times that were in force then.
+{% endhint %}
+
 ## One expedition, minute by minute
 
 ```
 +0      departure
-+0–60   flight to the asteroid
-+60     landing, scene 1 — nobody has noticed her yet
-+100    scene 2 — they've noticed, and they're coming
-+140    scene 3 — the last one; after it she has to leave
-+180    undocking
-+195    home — the base unloads what she brought
++0–30   flight to the asteroid
++30     landing, scene 1 — nobody has noticed her yet
++60     scene 2 — they've noticed, and they're coming
++90     scene 3 — the last one; after it she has to leave
++120    home — the base unloads what she brought
 ```
 
 ## Scenes

@@ -10,7 +10,7 @@ You don't fly with Shiba and you don't steer her by hand. You are **the voice in
 * **The workshop** — when a right is open, choose the next upgrade; pin the slot you care about. See [Gear & the Workshop](gear-workshop.md).
 * **Her temper** — see below.
 
-The evening, 17:15–24:00 UTC, after the last expedition is home, is the natural time for all three. Everything takes effect at 00:00 UTC.
+The evening, 20:00–24:00 UTC, after the last expedition is home, is the natural time for all three. Everything takes effect at 00:00 UTC. To keep her out of [the Bar](bar.md) as well, open the game before 20:55 UTC.
 
 ## Her temper
 

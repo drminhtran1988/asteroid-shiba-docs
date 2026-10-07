@@ -24,6 +24,30 @@ This gear is **not sold for money**. The base builds every stage from the CARGO 
 
 **Upgrade rights follow your own calendar.** If you joined before Season 2 gameplay began, your count starts on launch day; if you joined later, it starts on the UTC date you joined. Your first right is scheduled for your fourth calendar day. Later openings are not evenly spaced, and the Workshop shows the exact date of your next one. Up to fifteen rights can open (five slots × three stages). This rights calendar does not set an end date for the season. Opening doesn't depend on how many expeditions she flew or how much CARGO you have.
 
+### Your rights calendar
+
+Count your launch or joining date as **day 1**. Rights are scheduled on these personal calendar days:
+
+| Right | Your day |
+| ----- | -------- |
+| 1 | 4 |
+| 2 | 7 |
+| 3 | 12 |
+| 4 | 17 |
+| 5 | 23 |
+| 6 | 32 |
+| 7 | 45 |
+| 8 | 75 |
+| 9 | 78 |
+| 10 | 81 |
+| 11 | 84 |
+| 12 | 88 |
+| 13 | 93 |
+| 14 | 98 |
+| 15 | 105 |
+
+For example, if you join on **7 October UTC**, your first right is scheduled for **10 October at 00:00 UTC** and your second for **13 October at 00:00 UTC**. If you joined before gameplay launched, **6 October UTC** is day 1 for public players. Your Workshop shows the next date for your account.
+
 **A right opens at 00:00 UTC only if your gameplay access is active then.** Regaining access does not grant rights missed while access was closed. Rights already earned do not expire. You can place one upgrade order per UTC day.
 
 The Workshop is available only while your Season 2 gameplay access is open. You need at least

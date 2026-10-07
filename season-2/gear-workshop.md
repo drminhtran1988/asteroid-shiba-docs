@@ -22,14 +22,14 @@ This gear is **not sold for money**. The base builds every stage from the CARGO 
 
 ## The workshop
 
-**It opens upgrades by calendar.** On set days the workshop opens the right to order one more upgrade — **up to fifteen** (five slots × three stages). The final scheduled right opens on game day 105; that date is not a season end date. Opening doesn't depend on how many expeditions she flew or how much CARGO you have.
+**Upgrade rights open on selected days of the shared Season 2 calendar.** These days are not evenly spaced and are not counted from the day you join. Up to fifteen rights can open (five slots × three stages). The rights calendar does not set an end date for the season. Opening doesn't depend on how many expeditions she flew or how much CARGO you have.
 
-**You order one upgrade per UTC day.** A right opens at 00:00 UTC. You use it when you visit; unused rights don't expire, they wait for you.
+**A right opens at 00:00 UTC only if your gameplay access is active then.** Joining later or regaining access does not grant rights for earlier scheduled days. Rights already earned do not expire. You can place one upgrade order per UTC day.
 
 The Workshop is available only while your Season 2 gameplay access is open. You need at least
 Backpack Lv1; depending on when you joined, you may also need a purchased Pistol Lv1. If access
 closes, you cannot place orders until you meet the Arsenal requirements. Gear, CARGO and rights
-already earned remain, but new rights do not accrue on closed days.
+already earned remain.
 
 **You pick from offers.** The workshop suggests what to build, based on the last two weeks of her journal — the gear that let her down comes first.
 

@@ -22,21 +22,34 @@ This gear is **not sold for money**. The base builds every stage from the CARGO 
 
 ## The workshop
 
-**It opens upgrades by calendar.** On set days of the season the workshop opens the right to order one more upgrade — **up to fifteen** in a season (five slots × three stages). How many open depends on how long the season runs. Opening doesn't depend on how many expeditions she flew or how much CARGO you have.
+**It opens upgrades by calendar.** On set days the workshop opens the right to order one more upgrade — **up to fifteen** (five slots × three stages). The final scheduled right opens on game day 105; that date is not a season end date. Opening doesn't depend on how many expeditions she flew or how much CARGO you have.
 
 **You order one upgrade per UTC day.** A right opens at 00:00 UTC. You use it when you visit; unused rights don't expire, they wait for you.
+
+The Workshop is available only while your Season 2 gameplay access is open. You need at least
+Backpack Lv1; depending on when you joined, you may also need a purchased Pistol Lv1. If access
+closes, you cannot place orders until you meet the Arsenal requirements. Gear, CARGO and rights
+already earned remain, but new rights do not accrue on closed days.
 
 **You pick from offers.** The workshop suggests what to build, based on the last two weeks of her journal — the gear that let her down comes first.
 
 | Offer | Price |
 | ----- | ----- |
 | The workshop's top suggestion | base price |
-| The slot you **pinned** | base price × 1.25 |
-| The next suggestion | base price × 1.60 |
+| Second offer | base price × 1.25 |
+| Third offer | base price × 1.60 |
 
 Base prices by stage: **30 → 60 → 170 CARGO**.
 
+If you pin a slot, it appears as the second offer. Pin nothing and the second offer is simply
+the next slot down her journal — still at × 1.25. Pinning doesn't make an upgrade cheaper;
+it decides *which* slot sits in that middle spot.
+
 **It builds when there is CARGO.** In the evening the base works through the queue in order: whatever it can pay for gets built; an expensive order waits for more CARGO without blocking cheaper ones behind it. Several orders can be finished in one evening. A finished upgrade works **from the next day**.
+
+Within one slot the stages are built in order: stage two waits for stage one, even when you
+have the CARGO for it. Price never blocks a cheaper order — but a stage always waits for the
+stage below it.
 
 {% hint style="warning" %}
 Fifteen is the maximum the workshop can open, not a promise. Building every stage needs enough CARGO, and not every player will finish all fifteen.
